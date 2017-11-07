@@ -15,9 +15,9 @@ def main(company,
     :return: List of record matches
     """
     if year:
-        file_to_open = "data" + year
+        file_to_open = "data/data" + year
     else:
-        file_to_open = "combined"
+        file_to_open = "data/combined"
 
     matches = []
 
