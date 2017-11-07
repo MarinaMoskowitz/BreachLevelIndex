@@ -24,7 +24,7 @@ def main(company,
     with open(file_to_open + ".csv", 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
-            if company in row['Organisation']:
+            if company.lower() in row['Organisation'].lower():
                 matches.append(row)
                 pprint.pprint(row)
 
