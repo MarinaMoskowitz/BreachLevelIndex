@@ -3,8 +3,9 @@
 Small script to query the csv datafiles
 """
 import csv
-import pprint
 import sys
+import pprint
+import os
 
 def main(company,
          year=None):
@@ -14,6 +15,9 @@ def main(company,
     :param year:
     :return: List of record matches
     """
+
+    dir = os.path.dirname(os.path.abspath(__file__)) + "/"
+
     if year:
         file_to_open = "data/data" + year
     else:
@@ -21,17 +25,16 @@ def main(company,
 
     matches = []
 
-    with open(file_to_open + ".csv", 'r') as file:
+    with open(dir + file_to_open + ".csv", 'r') as file:
         reader = csv.DictReader(file)
         for row in reader:
             if company.lower() in row['Organisation'].lower():
                 matches.append(row)
-                pprint.pprint(row)
-
+    return matches
 
 if __name__ == '__main__':
     if len(sys.argv) > 1:
-        print(main(sys.argv[1]))
+        pprint.pprint(main(sys.argv[1]))
     else:
         print("Please provide victim search name")
 
