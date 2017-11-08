@@ -1,0 +1,748 @@
+{'AOL': {'BLI': [OrderedDict([('Rank', '31'),
+                              ('Organisation', 'AOL'),
+                              ('Records Breached', '2,000,000'),
+                              ('Date', '04/28/14'),
+                              ('Type', 'Identity Theft'),
+                              ('Source of Breach', 'Malicious Outsider'),
+                              ('Location', 'United States'),
+                              ('Industry', 'Technology'),
+                              ('Risk Source', '8.5'),
+                              ('Link',
+                               'http://www.reuters.com/article/2014/04/28/us-cybercrime-aol-idUSBREA3R0YK20140428?feedType=RSS&feedName=businessNews')])],
+         'PRCH': [OrderedDict([('Date Made Public', 'August 6, 2006'),
+                               ('Company', 'American Online (AOL)'),
+                               ('Location', 'New York, New York'),
+                               ('Type of breach', 'DISC'),
+                               ('Type of organization', 'BSO'),
+                               ('Records Breached',
+                                '650,000 (Unknown number of high-risk personal '
+                                'records)'),
+                               ('Total Records', 'Unknown'),
+                               ('Description of incident',
+                                'In late July AOL posted \n'
+                                '            on a public web site data on 20 '
+                                'million web queries from 650,000 users. \n'
+                                '            Some search records exposed SSNs, '
+                                'credit card numbers, or other pieces \n'
+                                '            of sensitive information.  '
+                                'UPDATE \n'
+                                '            (9/26/06):\n'
+                                '            Three individuals whose data were '
+                                'exposed have filed a lawsuit against \n'
+                                '            AOL.UPDATE (9/27/06): Six men '
+                                'were charged with creating and executing the '
+                                'phishing scheme. \xa0The men collected AOL '
+                                'email addresses and infected the computers of '
+                                'users with a program that asked for their '
+                                'credit card and bank account numbers during '
+                                'the AOL login process. AOL users were also '
+                                'spammed with phony email messages that asked '
+                                'for payment on AOL charges.\xa0'),
+                               ('Information Source', 'Dataloss DB'),
+                               ('Source URL', '')]),
+                  OrderedDict([('Date Made Public', 'April 28, 2014'),
+                               ('Company', 'AOL'),
+                               ('Location', 'New York, New York'),
+                               ('Type of breach', 'HACK'),
+                               ('Type of organization', 'BSO'),
+                               ('Records Breached', 'Unknown'),
+                               ('Total Records', 'Unknown'),
+                               ('Description of incident',
+                                'AOL has sent a message to millions of its '
+                                'account holders of a data breach to their '
+                                'system urging them to change their usernames '
+                                "and passwords. AOL won't confirm an exact "
+                                'number but it appears to be approximately 2 '
+                                'percent of its accounts.AOL noticed the '
+                                'attack when a significant amount of spam '
+                                'began appearing from spoofed emails from AOL '
+                                'account holders email addresses.'),
+                               ('Information Source', 'Media'),
+                               ('Source URL', '')])],
+         'VCDB': ['C181F5AC-3DC4-4E85-926A-D2C04E00BDA4',
+                  '02037087-0829-49A3-BAD2-99A2C5E9A3E5',
+                  '761D632B-1AD2-4A76-9553-26EDBFA89C04',
+                  'A7F71BC9-9F4C-4B7A-9087-2890C26288E7']},
+ 'Adobe': {'BLI': [OrderedDict([('Rank', '1'),
+                                ('Organisation', 'Adobe Systems, Inc'),
+                                ('Records Breached', '152,000,000'),
+                                ('Date', '09/18/13'),
+                                ('Type', 'Financial Access'),
+                                ('Source of Breach', 'Malicious Outsider'),
+                                ('Location', 'United States'),
+                                ('Industry', 'Technology'),
+                                ('Risk Source', '10.0'),
+                                ('Link',
+                                 'http://www.hindustantimes.com/technology/Chunk-HT-UI-Technology-OtherStories/Source-code-customer-data-stolen-by-hackers-Adobe/SP-Article1-1130856.aspx')]),
+                   OrderedDict([('Rank', '997'),
+                                ('Organisation', 'Adobe Flash'),
+                                ('Records Breached', ''),
+                                ('Date', '02/21/14'),
+                                ('Type', 'Identity Theft'),
+                                ('Source of Breach', 'Malicious Outsider'),
+                                ('Location', 'United States'),
+                                ('Industry', 'Technology'),
+                                ('Risk Source', '2.2'),
+                                ('Link',
+                                 'http://grahamcluley.com/2014/02/adobe-flash-zero-day-exploit-patched-foreign-policy-websites-compromised/')])],
+           'PRCH': [OrderedDict([('Date Made Public', 'November 14, 2012'),
+                                 ('Company', 'Adobe'),
+                                 ('Location', 'San Jose, California'),
+                                 ('Type of breach', 'HACK'),
+                                 ('Type of organization', 'BSO'),
+                                 ('Records Breached',
+                                  '230 (No SSNs or financial information '
+                                  'reported)'),
+                                 ('Total Records', 'Unknown'),
+                                 ('Description of incident',
+                                  'A hacker released the names, email '
+                                  'addresses, and encrypted passwords of 230 '
+                                  "members of Adobe's company database. \xa0"
+                                  'The hacker claimed to have access to over '
+                                  '150,000 records. \xa0Adobe announced that '
+                                  'it would reset approximately 150,000 '
+                                  'passwords of members of the '
+                                  'Connectusers.com site.UPDATE\xa0'
+                                  '(11/14/2012): The 230 people who were '
+                                  'affected also had their titles, affiliated '
+                                  'organizations, and usernames exposed. \xa0A '
+                                  'number of those affected were associated '
+                                  'with U.S. government agencies such as the '
+                                  'Department of Transportation, the '
+                                  'Department of Homeland Security, the U.S. '
+                                  'State Department, and the Federal Aviation '
+                                  'Administration.'),
+                                 ('Information Source', 'Databreaches.net'),
+                                 ('Source URL', '')]),
+                    OrderedDict([('Date Made Public', 'May 13, 2013'),
+                                 ('Company',
+                                  'Adobe, Washington Administrative Office of '
+                                  'the Courts'),
+                                 ('Location', 'Olympia, Washington'),
+                                 ('Type of breach', 'HACK'),
+                                 ('Type of organization', 'BSO'),
+                                 ('Records Breached', '160,000'),
+                                 ('Total Records', '16,000'),
+                                 ('Description of incident',
+                                  'Up to 160,000 people may have had their '
+                                  'information exposed by a breach. \xa0Anyone '
+                                  'who was booked into a city or county jail '
+                                  'int he state of Washington between '
+                                  'September of 2011 and December of 2012 may '
+                                  'have had their Social Security number '
+                                  'exposed.Additionally, three classes of '
+                                  'people may have had their names and '
+                                  "driver's license information exposed. \xa0"
+                                  'First, people who received a DUI citation '
+                                  'between 1989 and 2011 in the state of '
+                                  'Washington may have had their names and '
+                                  "drivers' license numbers exposed. Anyone "
+                                  'who had a traffic case filed or resolved in '
+                                  'a district or municipal court between 2011 '
+                                  'and 2012 may have been affected. Finally, '
+                                  'anyone who had a criminal case in '
+                                  'Washington filed against them or resolved '
+                                  'between 2011 and 2012 may have had their '
+                                  "name and driver's license number "
+                                  'exposed.\xa0'),
+                                 ('Information Source', 'Media'),
+                                 ('Source URL', '')]),
+                    OrderedDict([('Date Made Public', 'October 4, 2013'),
+                                 ('Company',
+                                  'Adobe, PR Newswire, National White Collar '
+                                  'Crime Center'),
+                                 ('Location', 'San Jose, California'),
+                                 ('Type of breach', 'HACK'),
+                                 ('Type of organization', 'BSR'),
+                                 ('Records Breached',
+                                  '2.9 million (38 million user emails and '
+                                  'passwords exposed)'),
+                                 ('Total Records', '2,900,000'),
+                                 ('Description of incident',
+                                  'Hackers obtained the customer information '
+                                  'of nearly 3 million Adobe custoemrs who '
+                                  'used Photoshop, InDesign, Premiere, and '
+                                  'other Adobe software products. \xa0Customer '
+                                  'IDs, encrypted passwords, names, encrypted '
+                                  'credit or debit card numbers, expiration '
+                                  'dates, and other information related to '
+                                  'customer orders were exposed. \xa0Anyone '
+                                  "who bought software directly from Adobe's "
+                                  'website is advised to change their Adobe '
+                                  'account passwords.UPDATE\xa0(10/11/2013): '
+                                  'Hackers kept the source code on a hidden, '
+                                  'but unencrypted server.UPDATE\xa0'
+                                  '(10/21/2013): A second breach related to '
+                                  'the initial one in early October caused '
+                                  'Adobe to reset client passwords.UPDATE\xa0'
+                                  '(10/29/2013): An investigation revealed '
+                                  'that the encrypted passwords of '
+                                  'approximately 38 million active users were '
+                                  'also exposed. \xa0Adobe IDs were also '
+                                  'compromised and were reset by Adobe after '
+                                  'the breach.UPDATE\xa0(11/20/2013): Around '
+                                  '42 million passwords for the '
+                                  'Australian-based online dating service '
+                                  'Cupid Media were also found on the same '
+                                  'server that contained stolen Adobe, PR '
+                                  'Newswire, and National White Collar Crime '
+                                  'Center information.UPDATE\xa0(11/25/2013): '
+                                  'Some estimate that 152 million Adobe ID '
+                                  'accounts were in a file that began '
+                                  'circulating the internet in late '
+                                  'October. \xa0Adobe systems Inc has '
+                                  'encountered delays in trying to notify all '
+                                  'customers of the issue since it was '
+                                  'discovered 10 weeks ago.\xa0\xa0'),
+                                 ('Information Source', 'Media'),
+                                 ('Source URL', '')]),
+                    OrderedDict([('Date Made Public', 'September 25, 2017'),
+                                 ('Company', 'Adobe'),
+                                 ('Location', 'San Jose, California'),
+                                 ('Type of breach', 'DISC'),
+                                 ('Type of organization', 'BSO'),
+                                 ('Records Breached', 'Unknown'),
+                                 ('Total Records', 'Unknown'),
+                                 ('Description of incident',
+                                  '"Adobe has earned mockery after '
+                                  'accidentally posting its private PGP key on '
+                                  "the firm's official security blog.Last "
+                                  "week, Adobe's product security incident "
+                                  'response team (PSIRT) accidentally '
+                                  'published the private PGP key on the PSIRT '
+                                  'blog on Friday, a lesson in what you should '
+                                  'never reveal unless you want others to '
+                                  'impersonate you."'),
+                                 ('Information Source', 'Media'),
+                                 ('Source URL',
+                                  'http://www.zdnet.com/article/adobe-accidentally-releases-private-pgp-key/')])],
+           'VCDB': ['66AF984E-3513-4190-B689-248DED9B5702',
+                    'B6C82CBF-CC49-4846-9F6E-26CE2F395A4C',
+                    'A38B6411-D3DF-4EE3-909E-1B033F14275B',
+                    '7952DD16-101D-4B94-8C57-CDA0C2CF39F5']},
+ 'Alibaba': {'BLI': [],
+             'PRCH': [],
+             'VCDB': ['BFD6BC27-EFC7-4FAF-B9D3-27A2C4C282CB']},
+ 'Comscore': {'BLI': [],
+              'PRCH': [OrderedDict([('Date Made Public', 'June 12, 2013'),
+                                    ('Company', 'comScore'),
+                                    ('Location', 'Reston, Virginia'),
+                                    ('Type of breach', 'DISC'),
+                                    ('Type of organization', 'BSR'),
+                                    ('Records Breached', 'Unknown'),
+                                    ('Total Records', 'Unknown'),
+                                    ('Description of incident',
+                                     'Two comScore panelists filed a lawsuit '
+                                     'in August of 2011 after downloading '
+                                     'comScore software. \xa0Allegedly, '
+                                     "comScore collected and sold consumers' "
+                                     'Social Security numbers, credit card '
+                                     'numbers, financial information, retail '
+                                     'transactions, and other personal '
+                                     'information. \xa0The action may have '
+                                     'violated the Stored Communications Act, '
+                                     'the Computer Fraud and Abuse Act, the '
+                                     'Electronics Communications Privacy Act, '
+                                     'and the Illinois Consumer Fraud and '
+                                     'Deceptive Practices act. The lawsuit '
+                                     'might cover tens of millions of people '
+                                     'who have downloaded comScore software '
+                                     'since 2005. \xa0In June of 2013, the '
+                                     'Seventh Circuit Court of Appeals in '
+                                     "Chicago denied comScore's request to "
+                                     "overturn a lower court's decision that "
+                                     'had allowed the suit to proceed as a '
+                                     'class action suit.'),
+                                    ('Information Source', 'Media'),
+                                    ('Source URL', '')]),
+                       OrderedDict([('Date Made Public', 'June 12, 2013'),
+                                    ('Company', 'comScore'),
+                                    ('Location', ''),
+                                    ('Type of breach', 'DISC'),
+                                    ('Type of organization', 'BSR'),
+                                    ('Records Breached', 'Unknown'),
+                                    ('Total Records', 'Unknown'),
+                                    ('Description of incident',
+                                     'Two comScore panelists filed a lawsuit '
+                                     'in August of 2011 after downloading '
+                                     'comScore software. \xa0Allegedly, '
+                                     "comScore collected and sold consumers' "
+                                     'Social Security numbers, credit card '
+                                     'numbers, financial information, retail '
+                                     'transactions, and other personal '
+                                     'information. \xa0The action may have '
+                                     'violated the Stored Communications Act, '
+                                     'the Computer Fraud and Abuse Act, the '
+                                     'Electronics Communications Privacy Act, '
+                                     'and the Illinois Consumer Fraud and '
+                                     'Deceptive Practices act. The lawsuit '
+                                     'might cover tens of millions of people '
+                                     'who have downloaded comScore software '
+                                     'since 2005. \xa0In June of 2013, the '
+                                     'Seventh Circuit Court of Appeals in '
+                                     "Chicago denied comScore's request to "
+                                     "overturn a lower court's decision that "
+                                     'had allowed the suit to proceed as a '
+                                     'class action suit.'),
+                                    ('Information Source', 'Media'),
+                                    ('Source URL', '')])],
+              'VCDB': []},
+ 'Dataxu': {'BLI': [OrderedDict([('Rank', '640'),
+                                 ('Organisation', 'DataXu '),
+                                 ('Records Breached', '318'),
+                                 ('Date', '02/18/16'),
+                                 ('Type', 'Identity Theft'),
+                                 ('Source of Breach', 'Malicious Outsider'),
+                                 ('Location', 'United States'),
+                                 ('Industry', 'Technology'),
+                                 ('Risk Source', '4.7'),
+                                 ('Link',
+                                  'http://doj.nh.gov/consumer/security-breaches/documents/dataxu-20160303.pdf')])],
+            'PRCH': [],
+            'VCDB': []},
+ 'Foursquare': {'BLI': [OrderedDict([('Rank', '9'),
+                                     ('Organisation', 'Foursquare'),
+                                     ('Records Breached', '22,534,984'),
+                                     ('Date', '12/01/13'),
+                                     ('Type', 'Account Access'),
+                                     ('Source of Breach', 'Malicious Outsider'),
+                                     ('Location', 'United States'),
+                                     ('Industry', 'Technology'),
+                                     ('Risk Source', '9.3'),
+                                     ('Link',
+                                      'https://www.hackread.com/weebly-foursquare-hacked-accounts-stolen/')])],
+                'PRCH': [OrderedDict([('Date Made Public', 'October 21, 2016'),
+                                      ('Company', 'FourSquare'),
+                                      ('Location', 'San Francisco, California'),
+                                      ('Type of breach', 'HACK'),
+                                      ('Type of organization', 'BSO'),
+                                      ('Records Breached', '22,534,984'),
+                                      ('Total Records', 'Unknown'),
+                                      ('Description of incident',
+                                       '"The data breach notification '
+                                       'LeakedSource has revealed that the web '
+                                       'design platform Weebly and FourSquare, '
+                                       'a local search-and-discovery service '
+                                       'mobile app suffered a data breach.\xa0 '
+                                       'As a result, 43,430,316 Weebly and '
+                                       '22,534,984 FourSquare users accounts '
+                                       'were stolen.""The NewYork-based '
+                                       'company FourSquare suffered a security '
+                                       'breach in December 2013 in which '
+                                       '22,534,984 user accounts were stolen '
+                                       'however FourSquare has denied that it '
+                                       'was hacked and claims that email '
+                                       'addresses were simply cross-referenced '
+                                       'with publicly available data from '
+                                       'FourSquare. The data includes '
+                                       'usernames, emails and Twitter and '
+                                       'Facebook IDs"More Information: '
+                                       'https://www.hackread.com/weebly-foursquare-hacked-accounts-stolen/\xa0'),
+                                      ('Information Source', 'Media'),
+                                      ('Source URL', '')])],
+                'VCDB': []},
+ 'Gfk': {'BLI': [],
+         'PRCH': [OrderedDict([('Date Made Public', 'June 4, 2007'),
+                               ('Company', 'GFK NOP LLC'),
+                               ('Location', 'New York, New York'),
+                               ('Type of breach', 'PORT'),
+                               ('Type of organization', 'BSO'),
+                               ('Records Breached', 'Unknown'),
+                               ('Total Records', 'Unknown'),
+                               ('Description of incident',
+                                "An employee's laptop was stolen from her car "
+                                'on May 29. \xa0A payroll-related Excel file '
+                                'that contained the names, Social Security '
+                                'numbers, dates of birth, state of residence '
+                                'and base rate of pay for employees.'),
+                               ('Information Source', 'Dataloss DB'),
+                               ('Source URL', '')])],
+         'VCDB': []},
+ 'Groupm': {'BLI': [],
+            'PRCH': [OrderedDict([('Date Made Public', 'February 27, 2010'),
+                                  ('Company', 'GroupM'),
+                                  ('Location', 'New York, New York'),
+                                  ('Type of breach', 'PORT'),
+                                  ('Type of organization', 'BSO'),
+                                  ('Records Breached', '1,501'),
+                                  ('Total Records', '1,501'),
+                                  ('Description of incident',
+                                   'Eight laptops were stolen from an office.  '
+                                   'They most likely contained unencrypted '
+                                   'employee information such as Social '
+                                   'Security numbers and bank account '
+                                   'information.'),
+                                  ('Information Source', 'Databreaches.net'),
+                                  ('Source URL', '')])],
+            'VCDB': []},
+ 'Hilton': {'BLI': [OrderedDict([('Rank', '1250'),
+                                 ('Organisation',
+                                  'NatWest cash machine in Hilton'),
+                                 ('Records Breached', ''),
+                                 ('Date', '11/13/14'),
+                                 ('Type', 'Financial Access'),
+                                 ('Source of Breach', 'Malicious Outsider'),
+                                 ('Location', 'United Kingdom'),
+                                 ('Industry', 'Other'),
+                                 ('Risk Source', '2.1'),
+                                 ('Link',
+                                  'http://www.burtonmail.co.uk/CASH-POINT-SCAM-Thieves-target-NatWest-cash/story-24528328-detail/story.html')]),
+                    OrderedDict([('Rank', '1373'),
+                                 ('Organisation', 'Hilton Honors '),
+                                 ('Records Breached', ''),
+                                 ('Date', '11/04/14'),
+                                 ('Type', 'Account Access'),
+                                 ('Source of Breach', 'Malicious Outsider'),
+                                 ('Location', 'United States'),
+                                 ('Industry', 'Other'),
+                                 ('Risk Source', '1.9'),
+                                 ('Link',
+                                  'http://krebsonsecurity.com/2014/11/thieves-cash-out-rewards-points-accounts/')]),
+                    OrderedDict([('Rank', '838'),
+                                 ('Organisation', 'Hilton'),
+                                 ('Records Breached', '44'),
+                                 ('Date', '03/23/15'),
+                                 ('Type', 'Account Access'),
+                                 ('Source of Breach', 'Malicious Outsider'),
+                                 ('Location', 'United States'),
+                                 ('Industry', 'Other'),
+                                 ('Risk Source', '3.5'),
+                                 ('Link',
+                                  'http://arstechnica.com/security/2015/03/hilton-website-flaw-let-hackers-hijack-any-honor-members-account/')]),
+                    OrderedDict([('Rank', '1362'),
+                                 ('Organisation', 'Hilton Worldwide'),
+                                 ('Records Breached', ''),
+                                 ('Date', '07/27/15'),
+                                 ('Type', 'Financial Access'),
+                                 ('Source of Breach', 'Malicious Outsider'),
+                                 ('Location', 'Global'),
+                                 ('Industry', 'Other'),
+                                 ('Risk Source', '2.1'),
+                                 ('Link',
+                                  'http://news.hiltonworldwide.com/index.cfm/misc/guestupdate/hilton-worldwide-guest-update')])],
+            'PRCH': [OrderedDict([('Date Made Public', 'November 4, 2014'),
+                                  ('Company', 'Hilton/Hilton Honors Program'),
+                                  ('Location', 'McClean, Virginia'),
+                                  ('Type of breach', 'HACK'),
+                                  ('Type of organization', 'BSO'),
+                                  ('Records Breached', 'Unknown'),
+                                  ('Total Records', 'Unknown'),
+                                  ('Description of incident',
+                                   '"Hilton HHonors is at the center of a '
+                                   'security crisis. According to reports and '
+                                   'testaments from FlyerTalk readers, hackers '
+                                   'are finding their way into HHonors member '
+                                   'accounts, stealing points, and using '
+                                   'registered credit cards to make '
+                                   'unauthorized purchases of more points and '
+                                   'hotel stays.One of the worst incidents so '
+                                   'far involved a Canadian man, Brendan '
+                                   'Brothers. According to a report from Krebs '
+                                   'on Security, a security and cybercrime '
+                                   'news site run by former Washington Post '
+                                   'staffer Brian Krebs, Brothers’ account was '
+                                   'hacked in the last week of September. '
+                                   'Brothers claims the hackers stole about '
+                                   '250,000 points and used his account to '
+                                   'redeem hotel stays on the east coast. '
+                                   'Brothers’ stored credit card was then '
+                                   'allegedly used to purchase more rewards '
+                                   'points."'),
+                                  ('Information Source', 'Media'),
+                                  ('Source URL',
+                                   'http://www.flyertalk.com/articles/hilton-hhonors-hit-by-hackers-points-stolen-credit-cards-charged.html/')]),
+                     OrderedDict([('Date Made Public', 'September 25, 2015'),
+                                  ('Company', 'Hilton Hotels'),
+                                  ('Location', 'McClean , Virginia'),
+                                  ('Type of breach', 'HACK'),
+                                  ('Type of organization', 'BSO'),
+                                  ('Records Breached', 'Unknown'),
+                                  ('Total Records', 'Unknown'),
+                                  ('Description of incident',
+                                   '"Multiple sources in the banking industry '
+                                   'say they have traced a pattern \n'
+                                   'of credit card fraud that suggests hackers '
+                                   'have compromised \n'
+                                   'point-of-sale registers in gift shops and '
+                                   'restaurants at a large number \n'
+                                   'of Hilton Hotel and franchise properties '
+                                   'across the United States. Hilton\xa0says '
+                                   'it\xa0is investigating the '
+                                   'claims."According to Krebs on Security, '
+                                   'five banks have determined that a breach '
+                                   'of credit card payment systems has a '
+                                   'common thread in that they were all used '
+                                   'at Hilton properties. Hilton runs Embassy '
+                                   'Suites, Doubletree, Hampton Inn and '
+                                   'Suites, Waldorf Astoria Hotel & Resorts '
+                                   'and Hilton hotels. Currently it is not '
+                                   'clear at this time how many hotels have '
+                                   'been affected.More information: '
+                                   'http://krebsonsecurity.com/2015/09/banks-card-breach-at-hilton-hotel-pro...Update '
+                                   '(11/24/2015): Hilton Worldwide has sent an '
+                                   'update to the California Attorney '
+                                   "General's office regarding the credit card "
+                                   'breach. The company confirms they were a '
+                                   'victim of a malware attack that affected '
+                                   'debit and credit card information of '
+                                   'customers from November 18, 2014 through '
+                                   'December 5, 2014 or April 21, 2015 through '
+                                   'July 27,2015. More information: '
+                                   'https://oag.ca.gov/system/files/Hilton%20Worldwide%20Inc%20%20Consumer%2...?'),
+                                  ('Information Source', 'Krebs On Security'),
+                                  ('Source URL', '')])],
+            'VCDB': ['AF861519-9AB9-4A3E-8A88-EB94331A2D3E',
+                     'D174663E-3EC2-4182-ABEE-32AFB4A76F41']},
+ 'Mail.Ru': {'BLI': [OrderedDict([('Rank', '67'),
+                                  ('Organisation', 'Yandex, Mail.Ru'),
+                                  ('Records Breached', '1,200,000'),
+                                  ('Date', '09/04/14'),
+                                  ('Type', 'Account Access'),
+                                  ('Source of Breach', 'Malicious Outsider'),
+                                  ('Location', 'Russia '),
+                                  ('Industry', 'Technology'),
+                                  ('Risk Source', '7.7'),
+                                  ('Link',
+                                   'http://globalvoicesonline.org/2014/09/10/russia-email-yandex-mailru-passwords-hacking/')]),
+                     OrderedDict([('Rank', '14'),
+                                  ('Organisation',
+                                   'Mail.ru / Cross Fire / ParaPa Dance City / '
+                                   'Ground War Tank game'),
+                                  ('Records Breached', '25,133,805'),
+                                  ('Date', '08/24/16'),
+                                  ('Type', 'Account Access'),
+                                  ('Source of Breach', 'Malicious Outsider'),
+                                  ('Location', 'Russia'),
+                                  ('Industry', 'Technology'),
+                                  ('Risk Source', '9.0'),
+                                  ('Link',
+                                   'http://news.softpedia.com/news/mail-ru-forums-hack-compromises-over-25-million-user-accounts-507599.shtml')])],
+             'PRCH': [],
+             'VCDB': ['B66BD651-8828-43CF-A856-F22CBB0ABB75']},
+ 'Mailchimp': {'BLI': [OrderedDict([('Rank', '1473'),
+                                    ('Organisation', 'MailChimp'),
+                                    ('Records Breached', ''),
+                                    ('Date', '11/23/16'),
+                                    ('Type', 'Financial Access'),
+                                    ('Source of Breach', 'Malicious Outsider'),
+                                    ('Location', 'United States'),
+                                    ('Industry', 'Technology'),
+                                    ('Risk Source', '2.1'),
+                                    ('Link',
+                                     'https://www.grahamcluley.com/just-mailchimp-accounts-hacked/')])],
+               'PRCH': [],
+               'VCDB': []},
+ 'Marin Software': {'BLI': [OrderedDict([('Rank', '643'),
+                                         ('Organisation', 'Marin Software '),
+                                         ('Records Breached', ''),
+                                         ('Date', '01/26/17'),
+                                         ('Type', 'Identity Theft'),
+                                         ('Source of Breach',
+                                          'Malicious Outsider'),
+                                         ('Location', 'United States'),
+                                         ('Industry', 'Technology'),
+                                         ('Risk Source', '2.2'),
+                                         ('Link',
+                                          'https://adexchanger.com/ad-exchange-news/friday-01272017/')])],
+                    'PRCH': [],
+                    'VCDB': []},
+ 'Marketo': {'BLI': [OrderedDict([('Rank', '1803'),
+                                  ('Organisation',
+                                   'WorkComp Resolutions, Marketo'),
+                                  ('Records Breached', '1'),
+                                  ('Date', '02/20/15'),
+                                  ('Type', 'Identity Theft'),
+                                  ('Source of Breach', 'Accidental Loss'),
+                                  ('Location', 'United States'),
+                                  ('Industry', 'Financial'),
+                                  ('Risk Source', '1.3'),
+                                  ('Link',
+                                   'http://www.nbcbayarea.com/investigations/Private-Health-Info-Lost-Law-Provides-No-Recourse-293080441.html')])],
+             'PRCH': [],
+             'VCDB': []},
+ 'Myspace': {'BLI': [OrderedDict([('Rank', '2'),
+                                  ('Organisation', 'MySpace'),
+                                  ('Records Breached', '360,000,000'),
+                                  ('Date', '06/11/13'),
+                                  ('Type', 'Account Access'),
+                                  ('Source of Breach', 'Malicious Outsider'),
+                                  ('Location', 'United States'),
+                                  ('Industry', 'Other'),
+                                  ('Risk Source', '10.0'),
+                                  ('Link',
+                                   'http://www.pcmag.com/news/344876/myspace-breach-reportedly-affects-360m-records')])],
+             'PRCH': [OrderedDict([('Date Made Public', 'April 16, 2009'),
+                                   ('Company', 'MySpace'),
+                                   ('Location', 'Los Angeles, California'),
+                                   ('Type of breach', 'INSD'),
+                                   ('Type of organization', 'BSO'),
+                                   ('Records Breached', 'Unknown'),
+                                   ('Total Records', 'Unknown'),
+                                   ('Description of incident',
+                                    'Confidential employee information, \n'
+                                    '          including at least name, Social '
+                                    'Security numbers and compensation, \n'
+                                    '          was taken by an employee in the '
+                                    "company's benefit's department \n"
+                                    '          without authorization, '
+                                    'beginning in June 2008 or earlier. The '
+                                    'information \n'
+                                    '          was used to annoy selected '
+                                    'individuals and the now former \n'
+                                    '          employee was arrested and is '
+                                    'being prosecuted by the High Tech '
+                                    'Crimes \n'
+                                    '          Division of the Los Angeles '
+                                    'County District Attorneys Office.'),
+                                   ('Information Source', 'Dataloss DB'),
+                                   ('Source URL', '')]),
+                      OrderedDict([('Date Made Public', 'May 31, 2016'),
+                                   ('Company', 'MySpace'),
+                                   ('Location', 'Santa Monica, California'),
+                                   ('Type of breach', 'HACK'),
+                                   ('Type of organization', 'BSO'),
+                                   ('Records Breached',
+                                    'Over 360 million usernames and passwords'),
+                                   ('Total Records', 'Unknown'),
+                                   ('Description of incident',
+                                    'My Space is notifying individuals of a '
+                                    'large data breach of usernames and\xa0'
+                                    'passwords on their system. The number of '
+                                    'passwords compromised is being reported '
+                                    'as over 360 million. These usernames '
+                                    'and\xa0passwords were exposed due to '
+                                    '"unsalted SHA-1 hashes" that allowed '
+                                    'hackers to run certain numbers they can '
+                                    'obtain with a cracking server, which can '
+                                    'process\xa0millions of SHA-1 calculations '
+                                    'per second.The breach has been reported '
+                                    'to only be usernames and passwords.Time '
+                                    'Inc. who owns MySpace has confirmed the '
+                                    'breach. More Information: '
+                                    'http://www.usatoday.com/story/tech/2016/05/31/360-million-myspace-accoun...'),
+                                   ('Information Source', 'Media'),
+                                   ('Source URL', '')])],
+             'VCDB': []},
+ 'Netseer': {'BLI': [],
+             'PRCH': [],
+             'VCDB': ['5B426009-CF27-4807-9EC5-420035CFA0C3']},
+ 'Openx': {'BLI': [],
+           'PRCH': [],
+           'VCDB': ['F583BFC3-BE26-498D-9E2F-E5E4DAE75593']},
+ 'Outbrain': {'BLI': [OrderedDict([('Rank', '846'),
+                                   ('Organisation',
+                                    'outbrain, Washington Post, CNN, Time'),
+                                   ('Records Breached', ''),
+                                   ('Date', '08/08/13'),
+                                   ('Type', 'Account Access'),
+                                   ('Source of Breach', 'State Sponsored'),
+                                   ('Location', 'Israel'),
+                                   ('Industry', 'Other'),
+                                   ('Risk Source', '2.0'),
+                                   ('Link',
+                                    'http://www.thedailybeast.com/articles/2013/08/14/syrian-electronic-army-leader-says-the-hacks-won-t-stop.html')])],
+              'PRCH': [],
+              'VCDB': ['11BB0DBF-F2BB-46AC-9C06-237F51D05874']},
+ 'Pagefair': {'BLI': [OrderedDict([('Rank', '1006'),
+                                   ('Organisation', 'PageFair'),
+                                   ('Records Breached', ''),
+                                   ('Date', '10/31/15'),
+                                   ('Type', 'Existential Data'),
+                                   ('Source of Breach', 'Malicious Outsider'),
+                                   ('Location', 'United States'),
+                                   ('Industry', 'Technology'),
+                                   ('Risk Source', '2.3'),
+                                   ('Link',
+                                    'http://blog.pagefair.com/2015/halloween-hack-exposure-checker/')])],
+              'PRCH': [],
+              'VCDB': []},
+ 'Sharethis': {'BLI': [],
+               'PRCH': [],
+               'VCDB': ['55EB654A-15C6-454D-800F-0D0081E8F565']},
+ 'Signal': {'BLI': [OrderedDict([('Rank', '1733'),
+                                 ('Organisation', 'Signal Outdoor Advertisers'),
+                                 ('Records Breached', ''),
+                                 ('Date', '06/30/14'),
+                                 ('Type', 'Financial Access'),
+                                 ('Source of Breach', 'Accidental Loss'),
+                                 ('Location', 'United States'),
+                                 ('Industry', 'Other'),
+                                 ('Risk Source', '0.5'),
+                                 ('Link',
+                                  'http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-243551.pdf')])],
+            'PRCH': [OrderedDict([('Date Made Public', 'September 10, 2011'),
+                                  ('Company', 'Tampa Signal'),
+                                  ('Location', 'Tampa, Florida'),
+                                  ('Type of breach', 'INSD'),
+                                  ('Type of organization', 'BSR'),
+                                  ('Records Breached', 'Unknown'),
+                                  ('Total Records', 'Unknown'),
+                                  ('Description of incident',
+                                   'The actions of at least one dishonest '
+                                   'employee put the personal information of '
+                                   'thousands of homeowners into the hands of '
+                                   'identity thieves. \xa0People who purchased '
+                                   'an ADT home security system through Tampa '
+                                   'Signal in February may have had their '
+                                   'information sold by one or more '
+                                   'employees. \xa0The personal information '
+                                   'exposed included Social Security numbers '
+                                   'and dates of birth. \xa0fraudulent tax '
+                                   'returns were filed in the names of an '
+                                   'unknown number of victims. \xa0'),
+                                  ('Information Source', 'Databreaches.net'),
+                                  ('Source URL', '')]),
+                     OrderedDict([('Date Made Public', 'August 1, 2014'),
+                                  ('Company',
+                                   'Signal Outdoor Advertising, LLC'),
+                                  ('Location', ', Maryland'),
+                                  ('Type of breach', 'DISC'),
+                                  ('Type of organization', 'MED'),
+                                  ('Records Breached', '33'),
+                                  ('Total Records', 'Unknown'),
+                                  ('Description of incident',
+                                   'credit card payment info\n'
+                                   'Location of breached information: email\n'
+                                   'Business associate present: No\n'),
+                                  ('Information Source',
+                                   'Maryland Attorney General'),
+                                  ('Source URL',
+                                   'http://www.marylandattorneygeneral.gov/Pages/IdentityTheft/breachnotices.aspx')])],
+            'VCDB': []},
+ 'Taboola': {'BLI': [OrderedDict([('Rank', '1434'),
+                                  ('Organisation', 'Taboola'),
+                                  ('Records Breached', ''),
+                                  ('Date', '06/22/14'),
+                                  ('Type', 'Nuisance'),
+                                  ('Source of Breach', 'State Sponsored'),
+                                  ('Location', 'United Kingdom'),
+                                  ('Industry', 'Other'),
+                                  ('Risk Source', '1.7'),
+                                  ('Link',
+                                   'http://nakedsecurity.sophos.com/2014/06/23/syrian-electronic-army-uses-taboola-ad-to-hack-reuters-again/')])],
+             'PRCH': [],
+             'VCDB': []},
+  'Yandex': {'BLI': [OrderedDict([('Rank', '67'),
+                                 ('Organisation', 'Yandex, Mail.Ru'),
+                                 ('Records Breached', '1,200,000'),
+                                 ('Date', '09/04/14'),
+                                 ('Type', 'Account Access'),
+                                 ('Source of Breach', 'Malicious Outsider'),
+                                 ('Location', 'Russia '),
+                                 ('Industry', 'Technology'),
+                                 ('Risk Source', '7.7'),
+                                 ('Link',
+                                  'http://globalvoicesonline.org/2014/09/10/russia-email-yandex-mailru-passwords-hacking/')]),
+                    OrderedDict([('Rank', '1229'),
+                                 ('Organisation', 'Yandex'),
+                                 ('Records Breached', ''),
+                                 ('Date', '03/08/15'),
+                                 ('Type', 'Existential Data'),
+                                 ('Source of Breach', 'Malicious Insider'),
+                                 ('Location', 'Russia'),
+                                 ('Industry', 'Technology'),
+                                 ('Risk Source', '2.2'),
+                                 ('Link',
+                                  'http://news.softpedia.com/news/employee-that-stole-yandex-s-search-engine-code-gets-off-easy-in-court-498199.shtml')])],
+            'PRCH': [],
+            'VCDB': []},
