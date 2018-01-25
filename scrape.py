@@ -43,7 +43,7 @@ def clean(col):
         return col.text
 
 def write_to_csv(data, filename):
-    with open('data/' + filename + '.csv', 'w') as csvfile:
+    with open('data/new/' + filename + '.csv', 'w') as csvfile:
         fieldnames = list((data[0]).keys())
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
