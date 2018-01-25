@@ -7,7 +7,7 @@ def diff(year):
     """
     Returns the rows that are in the new year file
     :param year:
-    :return:
+    :return: list
     """
     f1 = open("data/old/data" + year + ".csv")
     oldFile1 = csv.reader(f1)
@@ -25,3 +25,13 @@ def diff(year):
 
 
 
+def diff_all():
+    """
+    Diffs all years
+    :return:
+    """
+    years = ["2017", "2016","2015","2014", "2013","2012"]
+    result = []
+    for year in years:
+        result += diff(year)
+    return result
