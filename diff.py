@@ -16,11 +16,13 @@ def diff(year):
     f2 = open("data/new/data" + year + ".csv")
     newFile2 = csv.reader(f2)
     newList2 = list(newFile2)
+
+    #Close files
     f1.close()
     f2.close()
-
+    
     newRows = [row for row in newList2 if row not in oldList1]
-    print(newRows)
+    return newRows
 
 
 
@@ -30,8 +32,9 @@ def diff_all():
     Diffs all years
     :return:
     """
-    years = ["2017", "2016","2015","2014", "2013","2012"]
+    years = ["2017","2016","2015","2014", "2013"]
     result = []
     for year in years:
         result += diff(year)
     return result
+
