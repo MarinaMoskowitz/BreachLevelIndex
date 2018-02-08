@@ -43,7 +43,8 @@ def clean(col):
         return col.text
 
 def write_to_csv(data, filename):
-    with open('data/new/' + filename + '.csv', 'w') as csvfile:
+    dir = os.path.dirname(os.path.abspath(__file__)) + "/"
+    with open(dir + 'data/new/' + filename + '.csv', 'w') as csvfile:
         fieldnames = list((data[0]).keys())
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -53,8 +54,13 @@ def write_to_csv(data, filename):
 def scrape_to_csv(year):
     write_to_csv(scrape(year), "data" + year)
 
-scrape_to_csv("2017")
-scrape_to_csv("2016")
-scrape_to_csv("2015")
-scrape_to_csv("2014")
-scrape_to_csv("2013")
+
+def scrape_all():
+    scrape_to_csv("2017")
+    scrape_to_csv("2016")
+    scrape_to_csv("2015")
+    scrape_to_csv("2014")
+    scrape_to_csv("2013")
+
+
+scrape_all()
