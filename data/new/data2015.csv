@@ -1514,371 +1514,370 @@ Rank,Organisation,Records Breached,Date,Type,Source of Breach,Location,Industry,
 1513,Swiss Cleaners ,,10/23/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.hackbusters.com/news/recent
 1514,Tampa Bay Area Gas Station,,03/17/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.wtsp.com/story/news/local/2015/03/17/credit-card-skimmers-found-at-6-tampa-bay-gas-stations/24887849/
 1515,TD Bank,,02/27/15,Identity Theft,Malicious Insider,United States,Financial,2.1,http://doj.nh.gov/consumer/security-breaches/documents/td-bank-20150220.pdf
-1516,Tesco Express ATM,,01/15/15,Financial Access,Malicious Outsider,United Kingdom,Financial,2.1,http://www.surreymirror.co.uk/Skimming-device-cash-machine-Tesco-Horley/story-25856763-detail/story.html
-1517,Tescophoto.com,,07/15/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://krebsonsecurity.com/2015/07/cvs-probes-card-breach-at-online-photo-unit/
-1518,The College of Registered Nurses of Manitoba,,10/17/15,Identity Theft,Malicious Insider,Canada,Healthcare,2.1,http://www.cbc.ca/news/canada/manitoba/2-manitoba-nurses-fined-1k-each-for-breaching-patient-privacy-1.3275793
-1519,Thousand Oaks ,,03/19/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.toacorn.com/news/2015-03-19/Community/Two_card_skimmers_uncovered_at_TO_gas_station_this.html
-1520,Totally Promotional/Casad,,07/06/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.scmagazine.com/totally-promotional-attack-compromises-payment-cards-other-data/article/434514/
-1521,Town & Country Bank and Trust Co,,10/10/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.kystandard.com/content/fraudulent-card-transactions-linked-skimming-device
-1522,Transport for London,,03/03/15,Identity Theft,Malicious Insider,United Kingdom,Government,2.1,http://www.secuobs.com/revue/news/562111.shtml
-1523,Tri-City Medical Center,,12/29/15,Identity Theft,Malicious Insider,United States,Healthcare,2.1,http://www.payersandproviders.com/news-article.php?news_id=1232&region=3
-1524,Tri-State bank (Evansville Federal Credit Union),,05/11/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.14news.com/story/29035618/card-skimming-device-discovered-at-tri-state-bank
-1525,Trump Hotel Properties,,02/09/15,Financial Access,Malicious Outsider,United States,Hospitality,2.1,http://krebsonsecurity.com/2015/07/banks-card-breach-at-trump-hotel-properties/
-1526,TVNZ,,05/02/15,Financial Access,Malicious Outsider,New Zealand,Other,2.1,http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11560265
-1527,UAE Bank,,07/09/15,Financial Access,Malicious Outsider,Dubai,Financial,2.1,http://www.emirates247.com/business/technology/fraud-alert-uae-banks-replace-credit-cards-after-security-scare-2015-08-05-1.599203
-1528,Uber U.S.,,05/02/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://motherboard.vice.com/read/more-uber-accounts-have-been-hacked-this-time-in-the-united-states
-1529,Ubiquiti Networks,,06/05/15,Financial Access,Malicious Outsider,United States,Technology,2.1,http://www.csoonline.com/article/2961066/supply-chain-security/ubiquiti-networks-victim-of-39-million-social-engineering-attack.html
-1530,UCLA Health,1,08/22/15,Identity Theft,Malicious Insider,United States,Healthcare,2.1,http://asianjournal.com/consumer/ex-lovers-quarrel-lead-to-disclosure-of-private-medical-information/
-1531,University Technical College (UTC) Warrington,,10/06/15,Identity Theft,Malicious Insider,United Kingdom,Education,2.1,http://www.warringtonguardian.co.uk/news/13806171.Council_investigating_claims_of_data_protection__breach__over__eligible__pupils_at_UTC/
-1532,UW Credit Union ATM,,05/30/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.wkow.com/story/29456888/2015/07/01/skimming-case-at-fitchburg-credit-union-latest-data-theft
-1533,Valero Store,,11/29/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://abc13.com/news/two-men-sought-after-card-skimmer-attached-to-atm/1103287/
-1534,Vernon detachment,,12/15/15,Identity Theft,Malicious Insider,United States,Government,2.1,http://globalnews.ca/news/2403550/retired-mountie-fired-from-civilian-job-at-vernon-detachment-for-security-breach/
-1535,Village Pizza & Pub/ TransformPOS/CoffeeBytes/University of Washington,,08/02/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://www.chainstoreage.com/article/hackers-hit-pizza-chain-through-pos-vendor
-1536,Vmware,,07/02/15,Financial Access,Malicious Outsider,United States,Technology,2.1,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257989.pdf
-1537,Wayland treasurer,,05/21/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://wayland.wickedlocal.com/article/20150521/NEWS/150528617
-1538,Westpac / Auckland cash machine,,08/26/15,Financial Access,Malicious Outsider,New Zealand,Financial,2.1,http://www.stuff.co.nz/auckland/71469912/skimming-device-found-on-auckland-cash-machine
-1539,White Lodging Hotel,,02/05/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.prnewswire.com/news-releases/white-lodging-releases-information-about-data-breach-investigation-at-select-food-and-beverage-outlets-300062065.html
-1540,Wilderness Resort,,06/08/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.miltonstart.com/blog/2015/11/23/wilderness-resort-hit-by-data-breach-credit-cards-affected/
-1541,Workers' Compensation Board of Nova Scotia,,12/19/15,Identity Theft,Malicious Insider,United States,Healthcare,2.1,http://thechronicleherald.ca/metro/1328526-halifax-doctor-reprimanded-for-snooping-in-case-files-of-injured-workers
-1542,Worldwide Wine & Spirits,,01/28/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://www.myrecordjournal.com/southington/southingtonnews/6745176-129/police-investigating-credit-card-breach-at-southington-liquor-store.html
-1543,Zions Bank ATM,,02/15/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.idahostatejournal.com/members/atm-skimming-problem-at-zions-still-not-resolved/article_af891de6-c495-11e4-898f-1ba8c3ff57ac.html
-1544,Abercrombie & Fitch ,,04/15/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://doj.nh.gov/consumer/security-breaches/documents/abercrombie-fitch-20150415.pdf
-1545,Adams County National Bank ,,12/17/15,Financial Access,Malicious Insider,United Kingdom,Financial,2.0,http://abc27.com/2015/12/17/york-man-indicted-in-bank-fraud-identity-theft-case/
-1546,Allied Cash Advance,,06/01/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.your4state.com/story/d/story/winchester-woman-accused-of-embezzling-from-former/17690/eyJSLNmOFkGKxaiecbGWqA
-1547,Applebee's,,04/22/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://wavy.com/2015/11/23/applebees-employee-fired-for-having-credit-card-skimming-device/
-1548,BancCentral,,06/09/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.alvareviewcourier.com/news/local/article_f1f054a4-1893-11e5-ab6e-1bdd9cd1921c.html
-1549,Bed Bath & Beyond ,,03/07/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Bed%20Bath%20and%20Beyond%20SBN%20to%20Consumers.pdf
-1550,Brookdale Main Street,,07/06/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.tennessean.com/story/news/local/sumner/hendersonville/2016/02/01/woman-indicted-theft-elderly-resident/79642060/
-1551,Cash Express,,07/03/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.maysville-online.com/news/local/former-cash-express-employee-arrested/article_3fdddb7b-8e7c-5657-826b-8e3a1d5aad21.html
-1552,Cedars Health Clinics ,,04/07/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://thesheridanpress.com/?p=46743
-1553,Champs Sports,,10/09/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://miami.suntimes.com/mia-business/7/97/333637/store-manager-charged-with-skimming-customers-credit-cards
-1554,Citibank,,07/02/15,Financial Access,Malicious Insider,Australia,Financial,2.0,http://www.smh.com.au/nsw/philippines-call-centre-worker-stole-australian-citibank-customer-details-for-sydney-crime-gang-police-say-20150702-gi3lbd.html
-1555,Department of Taxation and Finance,,08/08/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.timesunion.com/local/article/State-tax-worker-allegedly-netted-50-000-through-6546863.php
-1556,Escambia County Department of Human Resources,,08/29/15,Financial Access,Malicious Insider,United States,Government,2.0,http://www.al.com/news/mobile/index.ssf/2015/08/report_2_dhr_employees_among_4.html
-1557,Florida's Department of Children & Families,,08/05/15,Financial Access,Malicious Insider,United States,Government,2.0,http://www.miamiherald.com/news/local/crime/article30163992.html
-1558,Ginger Blossom,,09/26/15,Financial Access,Malicious Insider,United States,Other,2.0,http://wwlp.com/2015/09/25/waiter-charged-with-credit-card-fraud/
-1559,Glastonbury Supermarket,,01/01/15,Financial Access,Malicious Insider,United States,Retail ,2.0,http://www.nbcconnecticut.com/news/local/Glastonbury-Supermarket-Employee-Accused-of-Credit-Card-Fraud--287554241.html
-1560,Green Group,,02/27/15,Existential Data,Hacktivist,United States,Government,2.0,http://www.scmagazine.com/news-alert-hacktivists-claim-to-have-accessed-files-from-private-us-based-defense-group/article/400741/
-1561,Hard Money,3,01/30/15,Nuisance,Malicious Insider,United States,Financial,2.0,http://www.justice.gov/usao-ndca/pr/fortuna-resident-indicted-loan-fraud-and-identity-theft
-1562,Ichiban Chinese Buffet,,01/05/15,Financial Access,Malicious Insider,United States,Other,2.0,http://m.staugustine.com/news/local-news/2015-02-03/sheriffs-office-temp-waiter-suspected-skimming-credit-cards#gsc.tab=0
-1563,ISIS,9,09/10/15,Nuisance,Hacktivist,Global,Government,2.0,http://www.theepochtimes.com/n3/1749260-hacker-trick-isis-agents-into-giving-their-phone-numbers-and-home-addresses/
-1564,Italy's Expo 2015,,04/30/15,Existential Data,Hacktivist,Italy,Education,2.0,http://www.ibtimes.com/anonymous-hackers-claim-1-terabyte-passwords-stolen-italys-expo-2015-1927082
-1565,JP Morgan Chase Bank  in White Plains,,02/10/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.midhudsonnews.com/News/2015/February/10/Figueroa_guilty-10Feb15.htm
-1566,Kohl's,,02/05/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-251180.pdf
-1567,Lillian's Restaurant,,07/02/15,Financial Access,Malicious Insider,United States,Other,2.0,http://wnyt.com/article/stories/s3866942.shtml
-1568,Madison Park Senior Community,1,03/17/15,Financial Access,Malicious Insider,United States,Government,2.0,http://www.wsaz.com/home/headlines/296597421.html
-1569,"Martin Schulz, The President of the European Parliament",,02/09/15,Existential Data,Hacktivist,Belgium,Government,2.0,http://news.softpedia.com/news/Website-of-European-Parliament-President-Hacked-472575.shtml
-1570,McDonald's at Raleigh drive,,09/08/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://wncn.com/2015/09/09/mcdonalds-workers-skimmed-credit-cards-at-raleigh-drive-thru-police-say/
-1571,Morgan County Health Center,,03/26/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.lakenewsonline.com/article/20150706/NEWS/150709405
-1572,myRepoSpace,,07/09/15,Existential Data,Malicious Outsider,Global,Technology,2.0,https://github.com/EthanArbuckle/MyRepoSpace-Hack
-1573,Partners in Care,1,02/15/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.silive.com/news/index.ssf/2015/02/home_health_aide_with_troubled.html
-1574,President Obama's email ,,04/25/15,Account Access,State Sponsored,United States,Government,2.0,http://www.nytimes.com/2015/04/26/us/russian-hackers-read-obamas-unclassified-emails-officials-say.html?_r=0
-1575,Red Star Craft House,,02/01/15,Financial Access,Malicious Insider,United States,Other,2.0,http://www.dailylocal.com/20150221/police-arrest-waitress-for-alleged-theft-forgery
-1576,Registrar RD Musalgaonkar's,1,01/22/15,Existential Data,Malicious Outsider,United States,Education,2.0,http://freepressjournal.in/registrars-email-hacked-misused-on-utd-campus/
-1577,Republic of Kazakhstan,,03/04/15,Existential Data,Malicious Outsider,Kazakhstan,Government,2.0,http://www.international.law.com/asia-top-news/id=1202720724049/Computer-Hack-in-Kazakhstan-Exposes-Client-Emails-with-Curtis?mcode=1399329856914&curindex=1&back=GLN
-1578,Rite Aid,,11/05/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.poughkeepsiejournal.com/story/news/crime/2016/02/03/rite-aid-associate-stole-customer-addresses-credit-card-numbers/79762090/
-1579,Rockland Nissan,,11/28/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.lohud.com/story/news/crime/2015/11/27/car-salesman-charged/76462074/
-1580,"SendGrid, Coinbase",,03/09/15,Financial Access,Malicious Insider,United States,Technology,2.0,https://sendgrid.com/blog/update-on-security-incident-and-additional-security-measures/
-1581,SMS Hospitality,,05/28/15,Financial Access,Malicious Insider,United States,Other,2.0,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257938.pdf
-1582,Staples ,,01/28/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.dailyfreeman.com/general-news/20150226/employees-of-staples-store-in-ulster-used-stolen-credit-card-info-to-buy-30000-worth-of-goods-police-say
-1583,Taco Bell,,03/11/15,Financial Access,Malicious Insider,United States,Retail ,2.0,http://patch.com/georgia/roswell/police-taco-bell-employee-stole-identities-while-working-drive-thru-window-0
-1584,Taco Bell,1,08/29/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.sharonherald.com/news/local_news/click-here-for-story/article_ad54389d-039f-5a77-af3d-f4ce9f251787.html
-1585,TD Bank,,09/15/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://doj.nh.gov/consumer/security-breaches/documents/td-bank-20150904.pdf
-1586,Tygervalley Restaurant,,12/11/15,Financial Access,Malicious Insider,South Africa,Other,2.0,http://beta.iol.co.za/news/crime-courts/waiter-fined-for-possessing-card-skimmer-1959376
-1587,U.S Army,1,10/09/15,Identity Theft,State Sponsored,United States,Government,2.0,http://news.sky.com/story/1566602/us-soldier-threatened-by-british-is-jihadi
-1588,UK parliament,,11/09/15,Existential Data,Hacktivist,United Kingdom,Government,2.0,http://www.express.co.uk/life-style/science-technology/618063/Parliament-Hacked-Files-MP-Ransom
-1589,Unique Gifts by Jacquelynn,,05/17/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://clintonnc.com/news/1936/dtown-employee-arrested
-1590,USF Credit Union,,02/05/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.wtsp.com/story/news/local/2015/02/11/usf-employee-arrested-for-fraud-id-theft/23259445/
-1591,Vancor Manor Nursing Home,,12/17/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.tennessean.com/story/news/crime/2015/12/31/goodlettesville-nursing-home-tech-charged-identity-theft-patient/78122368/
-1592,Wayne Country Sheriff's department,,05/18/15,Existential Data,Malicious Outsider,United States,Government,2.0,https://www.hackread.com/wayne-county-sheriffs-dept-website-defaced/
-1593,Wells Fargo Bank ,1,02/15/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.gvnews.com/news/local/bank-employee-booked-in-gv-fraud-case/article_b42f12ea-b93e-11e4-af1e-1f71e9e9ae79.html
-1594,Xbox One SDK,,01/08/15,Existential Data,Malicious Outsider,United States,Technology,2.0,http://www.scmagazine.com/h4lt-hacking-team-leaks-secret-xbox-one-sdk-accesses-unreleased-games/article/390936/
-1595,airBaltic,,11/22/15,Existential Data,Malicious Insider,Latvia,Other,1.9,http://www.baltic-course.com/eng/transport/?doc=113244
-1596,Alabama Legislative email,,05/21/15,Account Access,Malicious Outsider,United States,Government,1.9,http://www.al.com/news/index.ssf/2015/05/state_email_system_victim_of_a.html
-1597,Amazon ,,11/24/15,Account Access,Malicious Outsider,United States,Retail,1.9,http://www.securityweek.com/amazon-forces-password-resets-after-possible-security-breach
-1598,Atlassian (HipChat ),,01/31/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.zdnet.com/article/atlassian-resets-some-hipchat-passwords-after-breach/
-1599,Brabantia,,06/05/15,Account Access,Malicious Outsider,Netherlands,Retail,1.9,http://www.theregister.co.uk/2015/06/05/brabantia_breached_bins_hack_address/
-1600,Calgary Board of Education,,03/20/15,Account Access,Malicious Outsider,Canada,Education,1.9,http://www.660news.com/2015/03/20/possible-security-breach-at-calgary-board-of-education/
-1601,CareerBuilder,,04/30/15,Account Access,Malicious Outsider,United States,Other,1.9,http://www.csoonline.com/article/2916524/social-engineering/careerbuilder-listings-used-as-phishing-platform.html
-1602,City Of WPB,,09/15/15,Existential Data,Malicious Insider,United States,Government,1.9,http://www.cbs12.com/news/top-stories/stories/vid_29333.shtml
-1603,Copart,,03/31/15,Account Access,Malicious Outsider,United States,Other,1.9,http://news.softpedia.com/news/Copart-com-Breached-Driver-s-License-Numbers-Exposed-482625.shtml
-1604,David Jones,,10/02/15,Account Access,Malicious Outsider,Australia,Retail,1.9,http://www.theaustralian.com.au/business/latest/david-jones-website-hacked/story-e6frg90f-1227553931692
-1605,dubizzle UAE,,08/02/15,Account Access,Malicious Outsider,United Arab Emirates,Retail,1.9,https://gulfbusiness.com/2015/08/online-marketplace-dubizzle-uae-faces-security-breach/
-1606,EDnergy Companies,,02/01/15,Account Access,Malicious Outsider,Global,Other,1.9,http://www.symantec.com/connect/blogs/new-reconnaissance-threat-trojanlaziok-targets-energy-sector
-1607,Food.com /Scripps Network/ FoodNetwork.com,,09/16/15,Account Access,Malicious Outsider,United States,Other,1.9,https://oag.ca.gov/system/files/Consumer%20Notice_2.pdf?
-1608,Gyft ,,12/23/15,Account Access,Malicious Outsider,United States,Other,1.9,http://www.scmagazine.com/gyft-resets-some-customer-passwords-following-breach/article/460904/
-1609,Harvard/ Faculty of Arts and Sciences and Central Administration information technology networks,,06/19/15,Account Access,Malicious Outsider,United States,Education,1.9,http://security.harvard.edu/cyber-alert
-1610,Hex-Rays (IDA (Interactive Disassembler),,05/25/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://news.softpedia.com/news/Cyber-Attack-on-IDA-Server-Prompts-License-Key-Replacement-482331.shtml
-1611,Hirsche Private,,01/07/15,Identity Theft,Malicious Outsider,Taiwan,Other,1.9,http://www.wkrg.com/story/27784109/hirsche-private-asset-emergency-announcement-regarding-breach-of-it-security-by-hacker-group
-1612,HLTV (CS:GO),,02/11/15,Account Access,Malicious Outsider,United States,Other,1.9,http://www.tweaktown.com/news/43399/popular-cs-go-website-hltv-reports-security-breach/index.html
-1613,Hollywood's celebs,4,11/09/15,Identity Theft,Accidental Loss,United States,Other,1.9,http://www.kvue.com/story/news/local/2015/11/20/austin-dumpster-diver-finds-a-list-actors-private-info/76144154/
-1614,Hover,,08/05/15,Account Access,Malicious Outsider,Canada,Technology,1.9,https://grahamcluley.com/2015/08/security-alert-hover-leads-password-reset/
-1615,InstaAgent/Google/Apple,,11/11/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.macrumors.com/2015/11/10/malicious-instaagent-instagram-app/
-1616,Kean University,,12/21/15,Account Access,Malicious Outsider,United States,Education,1.9,https://www.tapinto.net/towns/east-orange-slash-orange/articles/kean-university-hacked-three-times-in-one-day-al-18
-1617,Kettering General Hospital,,08/15/15,Account Access,Malicious Outsider,United Kingdom,Other,1.9,http://www.scmagazineuk.com/exclusive-kettering-general-hospital-investigating-email-data-breach/article/439350/
-1618,LastPass,,06/19/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://krebsonsecurity.com/2015/06/password-manager-lastpass-warns-of-breach/#more-31259
-1619,Livestream,,12/23/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.engadget.com/2015/12/23/livestream-alerts-customers-it-may-have-been-hacked/
-1620,Mandrill,,02/10/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.pcworld.com/article/2899292/mandrill-warns-attack-may-have-exposed-some-data-about-email.html
-1621,Microsoft's anti-surveillance website,,06/18/15,Account Access,Malicious Outsider,United Kingdom,Technology,1.9,http://www.net-security.org/secworld.php?id=18528
-1622,Missile-Defense Program,,12/28/15,Existential Data,Malicious Insider,Israel,Government,1.9,http://www.pjstar.com/article/ZZ/20151228/NEWS/312289973/16946/NEWS
-1623,Mt Albert Grammar,,10/19/15,Account Access,Malicious Outsider,New Zealand,Education,1.9,http://www.stuff.co.nz/technology/73187088/students-get-porn-message-after-high-schools-email-hacked
-1624,"NATO, White House",,09/07/15,Account Access,Malicious Outsider,United States,Government,1.9,http://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-mh17-investigation-team/
-1625,Niteworks,,11/13/15,Account Access,Malicious Outsider,United Kingdom,Technology,1.9,http://www.theregister.co.uk/2015/11/13/mod_nitworks_breached/
-1626,Ohio Prison,,07/16/15,Account Access,Malicious Outsider,United States,Government,1.9,http://www.dispatch.com/content/stories/local/2015/07/16/ohio-inmate-password-breach.html
-1627,Perth Police Department,,03/12/15,Existential Data,Malicious Insider,Australia,Government,1.9,http://www.perthnow.com.au/news/western-australia/policeman-charged-with-leaking-information-about-ben-cousins-arrest-to-tv-reporter-girlfriend-keeps-his-job/story-fnhocxo3-1227370169753
-1628,Photobucket,,05/11/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.frontlinedesk.com/2015055722-photobucket-security-breached-photofcket-men-arrested/
-1629,Play.com,,03/01/15,Account Access,Malicious Outsider,United Kingdom,Retail,1.9,http://networksecurityreport.siteblogs.net/2015/02/28/play-com-compromised-and-security-breach-admitted/
-1630,PoliceOne Forums,,06/08/15,Account Access,Malicious Outsider,United States,Social Media,1.9,https://oag.ca.gov/system/files/Praetorian%20Digital%20notice%20only%20CA_0_0.pdf?
-1631,Prominent US Senators and Mayors,2,11/02/15,Identity Theft,Hacktivist,United States,Government,1.9,http://usuncut.com/politics/anonymous-unhoods-kkk-prominent-politicians/
-1632,Puush,,03/30/15,Account Access,Malicious Outsider,Australia,Technology,1.9,http://www.scmagazine.com/cyber-attack-on-puush-prompts-password-changes/article/406201/
-1633,Raptr,,01/31/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.cinemablend.com/games/Raptr-Hacked-Change-Your-Passwords-69760.html
-1634,RateMyProfessors,,12/24/15,Account Access,Malicious Outsider,United States,Education,1.9,https://oag.ca.gov/system/files/RateMyProfessors%20User%20Notification%2020160106%20-%20Attach%20to%20California%20AG%20Notice_0.pdf?
-1635,RealSelf,,12/25/15,Account Access,Malicious Outsider,United States,Retail,1.9,https://oag.ca.gov/system/files/RealSelf%20Notice_0.pdf?
-1636,St. Louis Federal Reserve,,04/24/15,Account Access,Malicious Outsider,United States,Financial,1.9,http://krebsonsecurity.com/2015/05/st-louis-federal-reserve-suffers-dns-breach/
-1637,Touchnote ,,11/04/15,Account Access,Malicious Outsider,United Kingdom,Technology,1.9,http://www.androidcentral.com/popular-postcard-app-touchnote-suffers-data-breach
-1638,Toys-R-Us,,01/28/15,Account Access,Malicious Outsider,United States,Retail,1.9,http://www.scmagazine.com/attacks-attempt-to-access-rewardsrus-accounts/article/401160/
-1639,W.W. Grainger,,10/27/15,Account Access,Malicious Outsider,United States,Technology,1.9,https://oag.ca.gov/system/files/Sample%20Notice%20Letter_0.pdf?
-1640,Xero,,10/23/15,Account Access,Malicious Outsider,Australia,Technology,1.9,https://grahamcluley.com/2015/10/online-accounting-software-xero-tells-users-reset-passwords-accounts-breached/
-1641,ZenPayroll,,04/29/15,Account Access,Malicious Outsider,United States,Financial,1.9,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253546.pdf
-1642,CoinCut,,07/23/15,Financial Access,Malicious Outsider,United Kingdom,Financial,1.8,http://www.coindesk.com/customer-data-leaked-in-possible-bitcoin-vendor-breach/
-1643,Department of Social Protection,3,05/04/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.8,http://www.irishtimes.com/news/crime-and-law/man-was-sent-strangers-bank-statements-and-payslips-in-post-1.2198893
-1644,Dr Laza Lazarevic,1,12/15/15,Identity Theft,Malicious Insider,Serbia,Healthcare,1.8,http://www.bdklegal.com/blogs/data-protection-and-privacy/health-data/803-serbia-mental-health-data-leakage
-1645,ITBus,,03/15/15,Account Access,Malicious Insider,United Kingdom,Technology,1.8,https://www.databreaches.net/uk-five-men-sentenced-over-insider-breach-helping-corporate-rival/
-1646,Kmart,,09/01/15,Account Access,Malicious Insider,Australia,Retail,1.8,http://www.zdnet.com/article/kmart-customer-details-hacked/
-1647,Lyell McEwin Hospital,3,03/02/15,Identity Theft,Accidental Loss,Australia,Healthcare,1.8,http://www.abc.net.au/news/2015-03-02/patient-seeks-answers-after-confidential-medical-records-leaked/6274944
-1648,Max Credit Union (River Region credit union),,03/13/15,Identity Theft,Malicious Insider,United States,Financial,1.8,http://www.azfamily.com/story/28547434/max-credit-union-employee-accused-of-sharing-customer-info-on-social-media
-1649,MTN South Africa,,05/14/15,Financial Access,Malicious Outsider,South Africa,Financial,1.8,http://www.techcentral.co.za/mtn-shuts-down-e-billing-portal/56843/
-1650,Saher ,,03/15/15,Identity Theft,Malicious Insider,Saudi Arabia,Government,1.8,http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20150315236947
-1651,South Carolina Medicaid agency ,,12/06/15,Identity Theft,Malicious Insider,United States,Healthcare,1.8,http://www.postandcourier.com/20160516/160519730/sc-medicaid-agency-apologizes-for-patient-privacy-breach
-1652,Texas Health Presbyterian Hospital,1,01/01/15,Identity Theft,Malicious Insider,United States,Healthcare,1.8,http://www.kvue.com/story/news/state/2015/03/01/nina-pham-to-sue-hospital-for-negligence-invasion-of-privacy/24230501/
-1653,The office of Nova Scotia Premier Stephen McNeil ,1,11/23/15,Identity Theft,Malicious Insider,Canada,Government,1.8,http://www.huffingtonpost.ca/2016/02/11/premier-s-aide-broke-law-by-revealing-health-details-of-cabinet-minister-report_n_9209514.html
-1654,Best Union,,05/01/15,Existential Data,Hacktivist,Italy,Other,1.7,http://securityaffairs.co/wordpress/36907/cyber-crime/expo-2015-anonymous-attacks.html
-1655,Canadian Security Intelligence Service (CSIS),,07/25/15,Existential Data,Hacktivist,Canada,Government,1.7,http://news.nationalpost.com/news/canada/anonymous-says-it-hacked-canadas-security-secrets-in-retaliation-for-police-shooting-of-b-c-activist
-1656,Clayton Valley Charter High School,,08/12/15,Existential Data,Hacktivist,United States,Education,1.7,http://www.santacruzsentinel.com/general-news/20150820/clayton-valley-charter-attorney-asks-newspaper-to-return-hacked-files-if-obtained/1
-1657,Grapevine Police Departments,,04/13/15,Existential Data,Hacktivist,United States,Government,1.7,http://thescoopblog.dallasnews.com/2015/04/anonymous-hacker-group-demands-police-video-of-shooting-of-mexican-immigrant-by-grapevine-cop.html/
-1658,State Information Technology Agency (SITA),,08/20/15,Existential Data,Hacktivist,South Africa,Government,1.7,https://www.hackread.com/opmonsanto-anonymous-hacks-south-african-govt/
-1659,Thai Police,,12/01/15,Existential Data,Hacktivist,Thiland,Government,1.7,http://news.softpedia.com/news/anonymous-hacks-thai-police-opsinglegateway-still-alive-496978.shtml
-1660,Big Blue Interactive,,01/13/15,Account Access,Malicious Outsider,United States,Other,1.6,http://puu.sh/eyH6F/ca2c9da32d.png
-1661,Clearwater Police Department,,01/24/15,Nuisance,Malicious Outsider,United States,Government,1.6,http://www.wtsp.com/story/news/investigations/2015/01/23/pinellas-judges-police-officers-state-attorneys-identity-theft-10-investigates/22242449/
-1662,Crystal ,,11/05/15,Account Access,Malicious Outsider,New Zealand,Technology,1.6,http://mybroadband.co.za/news/adsl/144955-crystal-web-suffers-adsl-security-breach.html
-1663,Easily.co.uk/NetNames,,12/11/15,Nuisance,Malicious Outsider,United Kingdom,Technology,1.6,http://www.theregister.co.uk/2015/12/11/easily_hacked/
-1664,Fab-Defense (fab-defense.com),,04/21/15,Identity Theft,Hacktivist,Israel,Other,1.6,https://www.hackread.com/anonymous-hacks-israel-arms-website-data-leak/
-1665,For The Record,,03/27/15,Nuisance,Malicious Outsider,Australia,Other,1.6,http://www.theregister.co.uk/2015/03/27/brisbane_court_recording_outfit_breached/
-1666,Port Hardy firefighters,2,07/10/15,Account Access,Hacktivist,Canada,Other,1.6,https://www.hackread.com/anonymous-bear-cubs-animal-cruelty/
-1667,Repair Services,2,05/05/15,Identity Theft,Accidental Loss,United States,Retail,1.6,http://www.kvue.com/story/news/local/2016/01/14/couple-sues-plano-company-after-private-images-posted-online/78815146/
-1668,Roundpoint Mortgage ,,01/30/15,Nuisance,Malicious Outsider,United States,Financial,1.6,http://doj.nh.gov/consumer/security-breaches/documents/roundpoint-mortgage-servicing-20150609.pdf
-1669,shorepowerinc.com,,04/23/15,Nuisance,Malicious Outsider,United States,Other,1.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-256821.pdf
-1670,"University of Kentucky, University of Connecticut, University of Maryland, Coastal Carolina University, and Abertay University",,01/04/15,Account Access,Malicious Outsider,United States,Education,1.6,https://twitter.com/UofMaryland?original_referer=http%3A%2F%2Fwww.databreaches.net%2Funiversities-hacked-data-dumped-by-marxistattorney%2F&tw_i=542809548692938752&tw_p=tweetembed
-1671,Volkswagen of Oakland ,,07/19/15,Nuisance,Malicious Outsider,United States,Other,1.6,https://oag.ca.gov/system/files/Security%20Breach%20Notice_1.pdf?
-1672,Washington Township Health Care District (Washington Hospital Healthcare System)/Washington Community Health Resource Library,,10/08/15,Nuisance,Malicious Outsider,United States,Healthcare,1.6,https://oag.ca.gov/system/files/WH.Adult_.Final_.12.28.15_0.pdf?
-1673,Bay Area Chiropractic Center,,08/31/15,Nuisance,Malicious Insider,United States,Healthcare,1.5,https://justice.oregon.gov/consumer/DataBreach/Home/GetBreach/846048661
-1674,Corrections Victoria/ Beechworth Correctional Centre,,07/20/15,Financial Access,Unknown,Australia,Government,1.5,http://www.heraldsun.com.au/
-1675,Dental Arts Group,,02/26/15,Nuisance,Malicious Insider,United States,Healthcare,1.5,http://www.fbi.gov/washingtondc/press-releases/2015/dental-practice-owner-charged-with-health-care-fraud-and-identity-theft
-1676,Fort Riley base (U.S. Army),1,02/05/15,Nuisance,Malicious Insider,United States,Government,1.5,http://news.softpedia.com/news/Fort-Riley-Private-Accused-of-Stealing-Soldiers-Identities-480624.shtml
-1677,Intelligent Transportation Systems Society of Canada,,06/02/15,Financial Access,Hacktivist,Canada,Government,1.5,http://motherboard.vice.com/read/anonymous-claims-it-leaked-passwords-and-credit-card-info-of-canadian-officials
-1678,Ooredoo Myanmar,,06/03/15,Nuisance,Malicious Insider,Burma,Other,1.5,http://www.mmtimes.com/index.php/business/technology/16295-ooredoo-data-breach-brings-legal-action.html
-1679,Richmond County,1,03/09/15,Nuisance,Malicious Insider,United States,Government,1.5,http://www.bizjournals.com/atlanta/news/2015/03/09/ex-coroner-faces-charges-for-using-dead-person-s.html
-1680,Wellington Property Management,,02/18/15,Nuisance,Malicious Insider,New Zealand,Other,1.5,http://www.stuff.co.nz/dominion-post/66130103/Espionage-claim-at-capital-firm
-1681,Brooklyn Warehouse,,02/01/15,Existential Data,Accidental Loss,United States,Other,1.4,http://www.nytimes.com/2015/02/02/nyregion/large-warehouse-fire-continues-to-burn-in-brooklyn.html?_r=1
-1682,Canada's Electronic Surveillance Agency,,01/20/15,Existential Data,Accidental Loss,Canada,Government,1.4,http://www.thewhir.com/web-hosting-news/physical-breach-highlights-security-holes-canadas-electronic-surveillance-agency
-1683,Cape Coral Police,,05/07/15,Existential Data,Accidental Loss,United States,Government,1.4,http://www.nbc-2.com/story/29066804/nbc2-investigators-find-personal-info-fbi-report-left-in-scrapped-cop-car#.VVigyPlVikp
-1684,Child Sexual Abuse,,10/20/15,Existential Data,Accidental Loss,United Kingdom,Government,1.4,http://www.radionz.co.nz/news/world/287546/advocates-upset-at-abuse-inquiry-data-loss
-1685,City Rheinberg ,,06/24/15,Existential Data,Accidental Loss,Germany,Government,1.4,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.rp-online.de%2Fnrw%2Fstaedte%2Frheinberg%2Fdatenpanne-stadt-rheinberg-schaltet-vertrag-mit-enni-frei-aid-1.5188473&edit-text=
-1686,Cloud Imperium Games,,05/26/15,Existential Data,Accidental Loss,United States,Technology,1.4,http://www.businessinsider.com.au/star-citizen-disco-lando-file-leak-2015-5
-1687,Danske Bank,,08/14/15,Existential Data,Accidental Loss,Denmark,Financial,1.4,http://news.softpedia.com/news/danish-bank-leaves-server-in-debug-mode-exposes-sensitive-information-in-javascript-comments-493838.shtml
-1688,Electronic Arts (EA),,10/15/15,Existential Data,Accidental Loss,United States,Technology,1.4,http://www.csoonline.com/article/2993909/data-breach/data-dump-suggests-possible-breach-at-electronic-arts.html
-1689,Heritage Foundation,,09/02/15,Existential Data,Accidental Loss,United States,Financial,1.4,http://www.politico.com/story/2015/09/heritage-foundation-emails-donor-data-stolen-in-data-breach-213292
-1690,Locker ransomware,,05/30/15,Existential Data,Accidental Loss,New Zealand,Technology,1.4,http://pastebin.com/1WZGqrUH
-1691,New Zealand Police,,09/09/15,Existential Data,Accidental Loss,New Zealand,Government,1.4,http://www.radionz.co.nz/news/national/284013/lawyer-'not-obliged'-to-return-secret-files
-1692,Norfolk County Council ,,06/29/15,Existential Data,Accidental Loss,United Kingdom,Government,1.4,http://www.edp24.co.uk/news/norfolk_county_council_sells_filing_cabinet_with_confidential_information_still_inside_1_4130279
-1693,NTV & Channel One,,11/10/15,Existential Data,Accidental Loss,Russia,Government,1.4,http://news.walla.co.il/item/2906267
-1694,Private Internet Access,,11/17/15,Existential Data,Accidental Loss,United Kingdom,Technology,1.4,https://www.privateinternetaccess.com/forum/discussion/19310/ip-leak-vulnerability-in-port-forwarding-feature
-1695,The Bank of England,,05/24/15,Existential Data,Accidental Loss,United Kingdom,Financial,1.4,http://www.benchmarkreporter.com/the-bank-of-england-reminds-us-why-it-is-important-to-check-recipients-before-sending-an-email/3879/
-1696,The Federal Reserve ,,06/29/15,Existential Data,Accidental Loss,United States,Government,1.4,http://www.bloomberg.com/news/articles/2015-07-24/fed-accidentally-released-confidential-staff-projections
-1697,The Versicherungsbote,,02/05/15,Existential Data,Accidental Loss,Germany,Financial,1.4,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.fondsprofessionell.de%2Fnews%2Fvertrieb-praxis%2Fnid%2Ffonds-finanz-relativiert-medienbericht-ueber-datenpanne%2Fgid%2F1019377%2Fref%2F4%2F&edit-text=
-1698,Abortion Practices,,07/27/15,Nuisance,Malicious Outsider,United States,Other,1.3,http://www.dailydot.com/politics/planned-parenthood-hacked-anti-abortion-3301/
-1699,Alfa Specialty Insurance Corp/Alfa Vision Insurance Corp,,05/04/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://doj.nh.gov/consumer/security-breaches/documents/alfa-insurance-20150710.pdf
-1700,AllMed/Central Alabama Primary Care Specialists ,,12/25/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.wtvm.com/story/30804533/exposed-medical-records-found-in-dumpster-in-east-montgomery
-1701,Anglesey ,,03/18/15,Identity Theft,Accidental Loss,United Kingdom,Other,1.3,http://www.dailypost.co.uk/news/north-wales-news/anglesey-council-launch-probe-after-8899632
-1702,Anxiety UK,,02/02/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,https://ico.org.uk/media/action-weve-taken/undertakings/1432348/anxiety-uk-undertaking.pdf
-1703,Arizona Department of Child Safety,,08/03/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.fox10phoenix.com/story/29699560/2015/08/03/kingman-resident-finds-dcs-investigation-documents-in-dumpster
-1704,Arthur Brisbane Child Treatment Center,,11/07/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.app.com/story/news/local/neptune-wall/wall/2015/11/13/records-brisbane-wall/75705462/
-1705,AVG,,12/30/15,Identity Theft,Accidental Loss,Netherlands,Technology,1.3,http://www.cnet.com/news/flaw-found-in-avgs-web-safety-software-9-million-people-exposed/
-1706,Avis Budget,,10/02/15,Identity Theft,Accidental Loss,United States,Retail,1.3,https://oag.ca.gov/system/files/Employee%20Notification%20Letter%20-%20Final%20%282%29_0.pdf?
-1707,Bank of Manhattan Mortgage,,06/25/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://oag.ca.gov/system/files/Bank%20of%20Manhattan%20Customer%20Notification_0.pdf?
-1708,Bedford Hospital,,03/08/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://www.dailymail.co.uk/news/article-187466/Medical-records-dumped.html
-1709,Boston Transportation Department (BTD),,09/09/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://news.softpedia.com/news/boston-authorities-exposed-sensitive-data-from-automatic-license-plate-readers-491267.shtml
-1710,Boston University,,11/09/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Boston%20University%20SBN%20to%20Consumers.pdf
-1711,"Bright House Cable, Jaguar, Inc",,05/01/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.clickorlando.com/news/bright-house-cable-work-orders-found-trashed-not-shredded/32676564
-1712,"California Department of Business Oversight,  Regulatory Authority (FINRA)",,01/05/15,Identity Theft,Accidental Loss,United States,Financial,1.3,https://oag.ca.gov/system/files/SDD%20Breach%20Notification%20Letter%20for%20DOJ_0.pdf?
-1713,CASA of Travis County,,03/31/15,Identity Theft,Accidental Loss,United States,Government,1.3,https://www.facebook.com/CenterForID
-1714,CIA,1,10/19/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.politico.com/story/2015/10/trey-gowdy-release-cia-source-name-benghazi-committee-214919
-1715,Coco's Bakery and Restaurant,,05/06/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.ksby.com/story/28975677/santa-maria-cocos-restaurant-closes-suddenly-ex-employees-say-personal-info-left-in-dumpster
-1716,Colchester Borough Council,,03/23/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.eadt.co.uk/news/urgent_investigation_into_breach_of_benefit_claimants_data_1_4004527
-1717,Columbia Management ,,01/20/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-251210.pdf
-1718,Defiance Metal Products Co/ 401K Plan & Trust / Ascensus,,05/14/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-256466.pdf
-1719,Department of Defense,,01/13/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.wjla.com/articles/2015/01/-malfunction-puts-federal-retirees-financial-data-at-risk-110541.html
-1720,Department of Employment and Learning,,08/13/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.recruiter.co.uk/news/2015/08/security-breach-gives-access-to-unknown-number-of-peoples-cvs/
-1721,Diman Regional Vocational Technical High School,,05/04/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Diman%20Regional%20Tech%20HS%20SBN%20to%20Consumers.pdf
-1722,District of Goslar ,,11/07/15,Identity Theft,Accidental Loss,Germany,Government,1.3,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fregionalgoslar.de%2Fdaten-panne-beim-landkreis-akten-landeten-im-altpapier%2F&edit-text=
-1723,Doran Reality,,03/23/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.kmov.com/story/28593682/documents-with-social-security-numbers-found-in-south-st-louis-dumpster
-1724,eBAY,,12/08/15,Identity Theft,Accidental Loss,United States,Retail,1.3,https://ret2libc.wordpress.com/2016/01/11/a-tale-of-ebay-xss-and-shoddy-incident-response/
-1725,esurance ,1,01/24/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253907.pdf
-1726,Ferndale Housing Commission/ Social Security Administration,,03/08/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.fox2detroit.com/news/local-news/28715404-story
-1727,Graham Central Station,,07/02/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.kob.com/article/stories/s3842335.shtml#.VZiDN_lViko
-1728,Hamilton Children's Aid Society,1,12/15/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://www.thespec.com/news-story/6231520-cas-discloses-woman-s-personal-information-without-her-consent/
-1729,HCA International/Lister Hospital,,04/09/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,https://www.databreaches.net/uk-private-health-firm-fined-200000-after-ivf-patients-confidential-conversations-revealed-online/
-1730,Health Center IN Jazan,,06/25/15,Identity Theft,Accidental Loss,Saudi Arabia,Healthcare,1.3,https://en-maktoob.news.yahoo.com/medical-center-jazan-dumps-patient-files-street-074052465.html
-1731,Human Rights Commission,1,09/04/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.vocm.com/newsarticle.asp?mn=2&ID=57124
-1732,Illinois Department of Insurance,,11/14/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://wtax.com/news/101101-illinois-department-of-insurance-discloses-privacy-breach/
-1733,Immobilise (Burglar's shopping list),,01/05/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.bbc.com/news/technology-30686697
-1734,Indiana salvage yards,,02/27/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://wishtv.com/2015/02/24/identities-left-exposed-in-indiana-salvage-yards/
-1735,ISIS,,02/11/15,Account Access,Hacktivist,Global,Other,1.3,http://www.mako.co.il/nexter-internet/Article-cf14f3cc1a77b41006.htm?Partner=makoMobileApp
-1736,Jewish General Hospital,1,01/30/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://www.cjad.com/cjad-news/2015/01/30/jewish-general-investigates-privacy-breach
-1737,Kenya's national,,07/13/15,Identity Theft,Accidental Loss,Russia,Government,1.3,http://sputniknews.com/africa/20150722/1024917436.html
-1738,Kinver,,09/09/15,Identity Theft,Accidental Loss,United Kingdom,Education,1.3,http://www.stourbridgenews.co.uk/news/13656294.Kinver_headteacher_apologises_after_confidential_pupil_documents_found_in_field/
-1739,League of Legends,,02/02/15,Account Access,Accidental Loss,United States,Other,1.3,http://www.pcgamer.com/league-of-legends-exploit-opens-back-door-to-user-accounts/
-1740,Linux #2,,11/22/15,Identity Theft,Accidental Loss,Australia,Technology,1.3,http://www.itwire.com/business-it-news/open-source/70431-linux-australia-suffers-another-data-leak
-1741,London Tribunal ,,07/27/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.9news.com/story/news/local/2015/08/17/personal-medicaid-information-sent--wrong-addresses/31862221/
-1742,M&T Bank,,04/21/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253908.pdf
-1743,Marks & Spencer,,10/28/15,Identity Theft,Accidental Loss,United Kingdom,Retail,1.3,http://www.techweekeurope.co.uk/e-marketing/marks-spencer-website-breach-179602
-1744,Miners,,12/01/15,Identity Theft,Accidental Loss,Germany,Healthcare,1.3,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.apotheke-adhoc.de%2Fnachrichten%2Fapothekenpraxis%2Fnachricht-detail-apothekenpraxis%2Fkrankenkassen-datenpanne-bei-der-knappschaft%2F&edit-text=
-1745,Ministry of Children and Family Development ,1,01/29/15,Identity Theft,Accidental Loss,Canada,Government,1.3,http://www.kelownadailycourier.ca/news/article_133c8a6e-a829-11e4-8504-0726a273c917.html
-1746,Motel 6,,07/22/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.kaaltv.com/article/stories/S3857688.shtml?cat=10151
-1747,MyGov,,11/18/15,Identity Theft,Accidental Loss,Australia,Financial,1.3,https://www.reddit.com/r/australia/comments/3takz4/taxpayer_records_exposed_by_serious_ato_mygov/
-1748,Nationstar Mortgage ,,07/26/15,Identity Theft,Accidental Loss,United States,Financial,1.3,https://oag.ca.gov/system/files/Greenlight%20Incident_CA_%20Notification081015_0.pdf?
-1749,Nationwide,,07/29/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257955.pdf
-1750,Nest Thermostats ,,12/02/15,Identity Theft,Accidental Loss,United States,Technology,1.3,http://gizmodo.com/nest-thermostats-leaked-user-data-but-dont-freak-out-qu-1754123565
-1751,New Zealand Inland Revenue,1,06/09/15,Identity Theft,Accidental Loss,New Zealand,Healthcare,1.3,http://www.odt.co.nz/news/dunedin/344913/ird-statement-wrong-person
-1752,NFL Mobile app,,01/25/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.wkrg.com/story/27949463/wandera-finds-official-nfl-app-to-be-leaking-users-personal-data-just-days-ahead-of-the-big-game
-1753,Niall O'Kane eye,,10/07/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://www.kentonline.co.uk/medway/news/patients-records-left-on-train-45367/
-1754,North Atlanta Motors,,12/10/15,Identity Theft,Accidental Loss,United States,Retail,1.3,http://www.forsythnews.com/section/6/article/28980/
-1755,Novick & Associates,1,08/31/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.prnewswire.com/news-releases/bny-mellon-wealth-management-client-data-breach--novick--associates-300134934.html
-1756,NSL,,01/16/15,Identity Theft,Accidental Loss,United Kingdom,Retail,1.3,http://www.stratfordobserver.co.uk/2015/01/17/news-Parking-firm-letter-gaffe-sparks-security-worries-124922.html
-1757,Office of W.G. Bostick ,,06/01/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.wtsp.com/story/news/local/2015/06/01/attorney-admits-to-tossing-clients-documents-in-dumpster/28320499/
-1758,Oregon & Health CO-OP,,04/03/15,Existential Data,Malicious Outsider,United States,Healthcare,1.3,http://www.bizjournals.com/portland/blog/health-care-inc/2015/04/oregons-health-co-op-stolen-laptop-leads-to.html
-1759,Osceola County,,10/21/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.wftv.com/news/news/local/9-investigates-osceola-county-childrens-personal-i/nn7QF/
-1760,Painted Turtle,,01/12/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,https://oag.ca.gov/system/files/Painted%20Turtle_Volunteers%20Notification%20Letter_0.pdf
-1761,Positive Adjustments,,08/09/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://fox13now.com/2015/08/07/medical-documents-filled-with-personal-info-found-filling-dumpster-in-taylorsville/
-1762,Principal Financial Group,,08/03/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257937%20(2).pdf
-1763,Raz-Kids,,02/09/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://www.nytimes.com/2015/02/09/technology/uncovering-security-flaws-in-digital-education-products-for-schoolchildren.html?_r=1
-1764,"Registry of Births, Deaths and Marriages Victoria",,12/23/15,Identity Theft,Accidental Loss,Australia,Other,1.3,http://www.theage.com.au/victoria/birth-certificate-mix-up-sparks-identity-fraud-fears-20151222-gltrap.html
-1765,Rota Advanced Dental Care,,02/25/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://gazette.com/police-investigate-office-damage-as-colorado-springs-dentist-ousted/article/1546666
-1766,Scient Federal Credit Union,,07/14/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://doj.nh.gov/consumer/security-breaches/documents/scient-fcu-20150721.pdf
-1767,Shoppers Drug Mart,,03/06/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://toronto.ctvnews.ca/woman-peels-back-labels-on-medication-to-find-someone-else-s-prescriptions-1.2268271#
-1768,SolarCity Corporation /TrueNorth Compliance,,03/02/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-252135%20(1).pdf
-1769,Sports Traders,,07/16/15,Identity Theft,Accidental Loss,Canada,Retail,1.3,http://vancouverisland.ctvnews.ca/victoria-police-investigating-after-employee-records-tossed-in-cardboard-bin-1.2473111
-1770,St. Lucie Medical Center,1,06/16/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.wptv.com/money/consumer/st-lucie-medical-center-gave-patient-records-to-wrong-patient-exposing-social-security-numbers
-1771,St. Peter's Hospital,1,01/01/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.kaj18.com/story/30966527/st-peters-hospital-pharmacist-sued-over-medical-privacy-following-alleged-rape
-1772,State Farm,,06/10/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://abc7news.com/technology/exclusive-sj-woman-discovers-security-breach-in-state-farm-app/775904/
-1773,Stonebridge Life ,,10/06/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-260730.pdf
-1774,Summit Financial Group,,02/15/15,Identity Theft,Accidental Loss,United States,Financial,1.3,https://oag.ca.gov/system/files/Sample%20Notice%201_0.pdf?
-1775,Swedish Transport Agency,,09/01/15,Identity Theft,Accidental Loss,Sweden,Government,1.3,https://www.bleepingcomputer.com/news/government/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/
-1776,TeleChoice,,04/09/15,Identity Theft,Accidental Loss,Australia,Retail,1.3,http://www.zdnet.com/article/oaic-accepts-telechoices-response-to-shipping-container-data-breach/
-1777,Thailand Senate and Public Health Ministry,,05/22/15,Account Access,Hacktivist,Thailand,Government,1.3,https://www.hackread.com/anonymous-breaches-thailand-senate-website/
-1778,The Agency for Health Care Administration,,11/12/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://health.wusf.usf.edu/post/florida-agency-healthcare-administration-records-improperly-sent-landfill#stream/0
-1779,The Medicine Shoppe pharmacy,,04/28/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://london.ctvnews.ca/confidential-medical-records-found-abandoned-1.2348801
-1780,The REC of Grapevine,1,07/21/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.wfaa.com/story/news/local/tarrant-county/2015/07/20/woman-claims-sensitive-info-released-by-grapevine-rec-center/30443199/
-1781,Thomas Nelson Community College,,12/09/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Thomas%20Nelson%20Community%20College%20SBN%20to%20Consumers.pdf
-1782,Thompson Rivers University,,03/16/15,Identity Theft,Accidental Loss,Canada,Education,1.3,http://infotel.ca/newsitem/tru-says-online-privacy-possibly-compromised/it17927
-1783,Toronto Parking Tag Operations,,03/03/15,Identity Theft,Accidental Loss,Canada,Other,1.3,http://www.thestar.com/autos/2015/02/26/autoknow-star-gets-action-from-parking-cops-after-privacy-breach.html#
-1784,Town of Brunswick Police,,03/02/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://doj.nh.gov/consumer/security-breaches/documents/brunswick-20150515.pdf
-1785,Transportation and Works Minister David Brazil (Municipal Affairs),,03/03/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.vocm.com/newsarticle.asp?mn=2&id=53091&latest=1
-1786,Trillium Health Centre,1,01/08/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://www.thestar.com/news/canada/2015/03/10/privacy-officer-accused-of-trying-to-block-investigation-into-hospital-breach.html
-1787,Trustmark Mutual Holding,,05/13/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.scmagazine.com/illinois-insurer-says-software-error-resulted-in-data-exposure/article/424199/
-1788,Tunica County School District,,06/23/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://whbq.images.worldnow.com/images/8130364_G.jpg
-1789,U.S. Women's Soccer Team Parade,,07/13/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.13wmaz.com/story/news/2015/07/10/medical-documents-found-in-confetti-for-womens-soccer-parade/30000521/
-1790,University College Hospital,1,07/18/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://www.dailymail.co.uk/news/article-3166496/Jeremy-Hunt-hot-water-breaching-patient-confidentiality-posting-hospital-visit-picture-Twitter-board-names-it.html
-1791,University Hospital Galway,,04/09/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://connachttribune.ie/new-guidelines-after-data-breaches-at-uhg-981/
-1792,University of York,,06/09/15,Identity Theft,Accidental Loss,United Kingdom,Education,1.3,http://www.nouse.co.uk/2015/06/09/computer-science-department-in-serious-data-security-breach/
-1793,US Department of Agriculture,,11/07/15,Account Access,Hacktivist,United States,Government,1.3,http://news.softpedia.com/news/anonymous-hacks-us-department-of-agriculture-to-protest-against-monsanto-495855.shtml
-1794,Vacaville Housing Authority,,08/24/15,Identity Theft,Accidental Loss,United States,Government,1.3,https://oag.ca.gov/system/files/Vacaville%20Housing%20Authority%20-%20Notice%20of%20Data%20Event_0.pdf?
-1795,Vermont Health Connect ,,09/11/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Vermont%20Health%20Connect%20SBN%20to%20Consumer.pdf
-1796,Veteran of the US Air Force/ VA VocRehab,1,08/02/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.disabledveterans.org/agency-dismissive-in-new-va-data-breach/
-1797,Veterans Administration (Florida Navy veteran),1,01/19/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.wfla.com/story/27886308/veteran-receives-another-veterans-medical-records-in-the-mail
-1798,VFS Global,,07/17/15,Identity Theft,Accidental Loss,United Kingdom,Financial,1.3,http://www.theguardian.com/technology/2015/jul/17/users-data-compromised-after-technical-glitch-at-home-office-contractor
-1799,Volcano Corporation,,05/21/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://doj.nh.gov/consumer/security-breaches/documents/volcano-20150609.pdf
-1800,Waikato high school,1,07/02/15,Identity Theft,Accidental Loss,New Zealand,Education,1.3,http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11474316
-1801,Westpoint Stevens,,03/13/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.greenvilleonline.com/story/news/crime/2015/03/13/theft-case-looking-possible-stolen-personnel-files-textile-company/70263580/
-1802,William Farrell,,03/13/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://vulnerabledisclosures.blogspot.com/2015/03/william-farrell-cpa-cary-nc.html
-1803,WorkComp Resolutions,1,02/20/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.nbcbayarea.com/investigations/Private-Health-Info-Lost-Law-Provides-No-Recourse-293080441.html
-1804,Zeven,,04/22/15,Identity Theft,Accidental Loss,Germany,Financial,1.3,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.brv-zeitung.de%2Flokales_artikel%2C-Datenpanne-im-Finanzamt-Zeven-_arid%2C1635194.html&edit-text=&act=url
-1805,ZocDoc,,06/05/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,https://oag.ca.gov/system/files/CA%20Consumer%20Notification%20Zocdoc_0.pdf?
-1806,ADAC,,11/03/15,Financial Access,Accidental Loss,Germany,Other,1.2,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.autobild.de%2Fartikel%2Fadac-mitgliederdaten-im-internet-7106293.html&edit-text=
-1807,Adele Tour,,12/01/15,Financial Access,Accidental Loss,Global,Other,1.2,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiQuKitj7zJAhUEGj4KHf7vCVgQFggdMAA&url=http%3A%2F%2Fwww.stereoboard.com%2Fadele-tickets&usg=AFQjCNGHDlXLFfd36BwaA3jDvO-O2rFyCw&sig2=fmadm2lAsj6ERAk_VeG04w
-1808,"Atkinson, Andelson, Loya, Ruud & Romo ",,04/23/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Atkinson%2C%20Andelson%2C%20Loya%2C%20Ruud%20%26%20Romo%20Notice_0.pdf
-1809,"CardCrypt/Air Canada, the CN Tower,San Diego Zoo/ easyJet, AirAsia and Aer Lingus/Wandera/Chiltern Railways/CN Tower",,12/09/15,Financial Access,Accidental Loss,Global,Financial,1.2,https://www.wandera.com/blog/cardcrypt/
-1810,Charter Communications,,05/29/15,Financial Access,Accidental Loss,United States,Technology,1.2,https://www.databreaches.net/simple-website-flaw-exposed-personal-data-of-millions-of-charter-customers/
-1811,Covanta,,05/20/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://news.softpedia.com/news/operator-of-energy-from-waste-facilities-loses-laptop-with-employee-info-485998.shtml
-1812,David A. Krausz,,01/06/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Security%20Breach%20Notice_0.pdf
-1813,Dignity Health,,05/30/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,http://www.beckershospitalreview.com/healthcare-information-technology/dignity-health-subsidiary-reports-data-breach-due-to-stolen-unencrypted-laptop.html
-1814,E. K. and Company,,01/19/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,https://oag.ca.gov/system/files/Riley%2048865%20notice%20only%20_0_0.pdf?
-1815,"Harvard Pilgrim Health Care, Operon Resource Menagement",,01/10/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,http://doj.nh.gov/consumer/security-breaches/documents/operon-20150121.pdf
-1816,Jamaica Information Service (JIS),,06/22/15,Identity Theft,Malicious Outsider,Jamaica,Government,1.2,http://jamaica-gleaner.com/article/news/20150622/update-jis-website-hacked-sensitive-data-not-lost-management
-1817,Law Enforcement Targets ,,03/03/15,Financial Access,Accidental Loss,United States,Retail,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253672.pdf
-1818,Longwood Management,,02/11/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Longwood%20Notice%20Template_0.PDF?
-1819,M&T Bank,,01/22/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-246655.pdf
-1820,Minneapolis City Council member,,12/26/15,Nuisance,Malicious Insider,United States,Government,1.2,http://minnesota.cbslocal.com/2015/12/25/constituents-whose-info-cano-tweeted-say-she-should-resign/
-1821,Mountain Travel Sobek,,10/28/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-260740.pdf
-1822,Multiplay,,03/28/15,Identity Theft,Malicious Outsider,United Kingdom,Retail,1.2,http://www.eteknix.com/multiplay-servers-hacked/
-1823,New Enterprise Associates/Collected Intelligence,,08/03/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257936.pdf
-1824,Papa John's ,1,02/08/15,Nuisance,Malicious Insider,United States,Other,1.2,http://www.cbc.ca/news/arts/iggy-azalea-threatens-to-sue-papa-john-s-after-pizza-delivery-boy-data-breach-1.2951434
-1825,Pathways Professional Counseling (PPC)/ Alabama Baptist Children's Homes & Family Ministries,,09/04/15,Identity Theft,Malicious Outsider,United States,Retail,1.2,http://www.prnewswire.com/news-releases/notice-of-data-security-event-300184239.html
-1826,Percheron,,01/15/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://doj.nh.gov/consumer/security-breaches/documents/percheron-20150223.pdf
-1827,Pioneer Bank,,01/26/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,http://news10.com/2015/03/02/pioneer-bank-affected-by-possible-security-breach/
-1828,Rob Kirby CPA,,01/06/15,Identity Theft,Malicious Outsider,United States,Education,1.2,http://oag.ca.gov/system/files/Security%20Breach%20Notification_1.pdf?
-1829,Roll Global / The Wonderful Company,,02/27/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Roll%20Press%20Release%20re%20Hub%20Incident_0.pdf?
-1830,Shire Human Genetic Therapies,,12/08/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Shire%20Human%20Genetic%20Therapies%20SBN%20to%20Consumers.pdf
-1831,St. Johns County School ,,04/14/15,Identity Theft,Malicious Outsider,United States,Education,1.2,http://www.actionnewsjax.com/news/news/local/teachers-laptop-stolen-rash-st-augustine-beach-car/nktPq/
-1832,Toyota Financial Services,,08/06/15,Financial Access,Accidental Loss,United States,Retail,1.2,http://oag.ca.gov/system/files/Vendor%20Partner%20Email%20Incident%20-%20Toyota%20States%20AG_0.pdf?
-1833,U.S. HealthWorks,,04/21/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,https://oag.ca.gov/system/files/USHW%20Letter_0.PDF?
-1834,UK bitcoin vendor ,,07/23/15,Financial Access,Accidental Loss,United States,Financial,1.2,http://www.coindesk.com/customer-data-leaked-in-possible-bitcoin-vendor-breach/
-1835,Virtue Center for Art & Technology,,12/15/15,Financial Access,Accidental Loss,United States,Technology,1.2,http://www.hackbusters.com/news/stories/492220-credit-card-info-of-donors-to-pro-muslim-or-anti-islamophobia-organizations-leaked
-1836,YBF Tax Inc dba Liberty Tax Service,,02/01/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,http://www.scmagazine.com/data-at-risk-following-burglary-at-liberty-tax-service-office-in-california/article/398664/
-1837,"Berkeley Health Center, Bay Area Consortium for Quality Health Care",,03/17/15,Identity Theft,Malicious Insider,United States,Healthcare,1.1,http://www.eastbayexpress.com/SevenDays/archives/2015/03/11/california-department-of-justice-investigates-berkeley-health-center-searches-clinic-for-financial-records
-1838,Callawassie gas station,,04/28/15,Financial Access,Malicious Outsider,United States,Other,1.1,http://wjcl.com/2015/04/28/credit-card-skimming-device-found-inside-pump-at-callawassie-gas-station/
-1839,Chevron GAS station,,01/22/15,Financial Access,Malicious Outsider,United States,Retail,1.1,http://www.palmbeachpost.com/news/news/crime-law/pbso-credit-card-skimming-device-found-at-gas-stat/njtKb/#__federated=1
-1840,Hayling supermarket,,02/26/15,Financial Access,Malicious Outsider,United Kingdom,Retail,1.1,http://www.portsmouth.co.uk/news/local/card-skimming-machine-is-discovered-at-hayling-supermarket-1-6602226
-1841,Lebanon Federal Credit Union,,10/04/15,Financial Access,Malicious Outsider,United States,Financial,1.1,http://www.ldnews.com/crime/ci_28937711/lfcu-finds-skimming-device-its-atm
-1842,San Luis Obispo County Community College District,,05/31/15,Identity Theft,Malicious Insider,United States,Education,1.1,https://oag.ca.gov/system/files/Letter%20for%20Mailing%20on%20LH_0.pdf?
-1843,Siam Commercial Bank,,02/02/15,Financial Access,Malicious Outsider,Thiland,Financial,1.1,http://www.bangkokpost.com/news/general/471273/bulgarian-card-skimmer-caught
-1844,Austrian Data Protection Authority,,03/06/15,Account Access,Accidental Loss,Austria,Government,1.0,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fderstandard.at%2F2000018645225%2FDatenschutzbehoerde-loest-bei-Newsletter-selbst-Datenpanne-aus&edit-text=&act=url
-1845,Citizens Connect website,,02/27/15,Account Access,Accidental Loss,United States,Government,1.0,http://www.boston.com/news/local/massachusetts/2015/02/27/citizens-connect-accidentally-displayed-several-complainants-personal-information/URKlkzOCbknRSm9jJpG4lO/story.html
-1846,DC Public Schools,,02/03/15,Account Access,Accidental Loss,United States,Education,1.0,http://www.myfoxdc.com/story/28021428/dc-public-schools-say-data-break-left-student-information-passwords-exposed
-1847,"Essendon/Essendon Women's Network, Essendonians, Collins Street Dons, Red & Blacks, Lawdons and the Dick Reynolds Club ",,11/04/15,Account Access,Accidental Loss,Australia,Other,1.0,http://www.heraldsun.com.au/sport/afl/teams/essendon/essendon-privacy-lapse-as-personal-contact-information-of-prominent-members-is-sent-via-email/news-story/29719b7e9f5977b32db96007c8e34454
-1848,Gorey Credit Union,,10/05/15,Account Access,Accidental Loss,United Kingdom,Financial,1.0,http://www.independent.ie/regionals/goreyguardian/news/gcu-says-accounts-not-affected-by-error-31584665.html
-1849,Meru Cabs,,05/10/15,Account Access,Accidental Loss,India,Other,1.0,http://timesofindia.indiatimes.com/city/mumbai/Fleet-taxi-firm-plugs-leaks-after-breach-of-data-on-its-website/articleshow/47224670.cms
-1850,Targrt,,12/15/15,Account Access,Accidental Loss,United States,Retail,1.0,http://arstechnica.com/security/2015/12/wish-list-app-from-target-springs-a-major-personal-data-leak/
-1851,Verizon -My FiOS Android app ,,01/19/15,Account Access,Accidental Loss,United States,Other,1.0,http://www.forbes.com/fdc/welcome_mjx.shtml
-1852,Verizon's Hum,,08/03/15,Account Access,Accidental Loss,United States,Technology,1.0,http://www.securityweek.com/verizons-hum-website-found-leaking-credentials
-1853,Waller County,,07/31/15,Nuisance,Hacktivist,United States,Government,1.0,http://www.click2houston.com/news/hackers-claim-to-target-waller-county-officials/34479552
-1854,Walmart,,01/21/15,Account Access,Accidental Loss,United States,Retail,1.0,http://vulnerabledisclosures.blogspot.com/2015/12/walmart-leaked-data-appearing-online.html
-1855,KnowBe4,,02/01/15,Account Access,Malicious Outsider,United States,Other,0.9,http://www.scmagazine.com/email-phishing-attack-comes-disguised-as-child-predator-alert/article/395309/
-1856,California Department of Motor Vehicles,,09/28/15,Nuisance,Accidental Loss,United States,Government,0.7,http://oag.ca.gov/system/files/Notice%201_0.pdf
-1857,Department of Human Services Agency,,08/15/15,Nuisance,Accidental Loss,United States,Government,0.7,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-256832.pdf
-1858,Dublin College for Advanced Studies,,04/23/15,Nuisance,Accidental Loss,United Kingdom,Education,0.7,http://www.thejournal.ie/data-protection-passports-in-skip-2065854-Apr2015/?utm_source=shortlink
-1859,General Optical Council,,12/02/15,Nuisance,Accidental Loss,United Kingdom,Retail,0.7,http://www.opticianonline.net/personal-registrant-data-leaked-general-optical-council/
-1860,Great Clips,,09/08/15,Nuisance,Accidental Loss,United States,Retail,0.7,http://www.gastongazette.com/article/20150909/NEWS/150908964
-1861,Isle of Portland Aldridge Community Academy (IPACA),,02/27/15,Nuisance,Accidental Loss,United Kingdom,Education,0.7,http://www.dorsetecho.co.uk/news/11831758.Prisoners_waste_disposal_contract_terminated_over_fears_student_information_wasn___t_destroyed/
-1862,MetroPCS,,11/15/15,Nuisance,Accidental Loss,United States,Retail,0.7,http://news.softpedia.com/news/software-bug-in-metropcs-website-dumps-user-data-in-cleartext-496181.shtml
-1863,Ministry of Justice,,01/29/15,Existential Data,Accidental Loss,United Kingdom,Government,0.7,http://www.bbc.com/news/uk-31037879
-1864,St Peter's School ,,10/16/15,Existential Data,Accidental Loss,United States,Education,0.7,http://www.yorkpress.co.uk/news/13875459.York_school_admits_data_breach_after_unprotected_memory_stick_is_lost/
-1865,TVNZ,,12/13/15,Nuisance,Accidental Loss,New Zealand,Other,0.7,http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11560265
-1866,A.C Moore Arts & Crafts (Ascensus),,02/09/15,Identity Theft,Accidental Loss,United States,Retail,0.6,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Ascensus%20Inc%20SBN%20to%20Consumer.pdf
-1867,Apple American Group (Applebee's),,03/02/15,Identity Theft,Accidental Loss,United States,Retail,0.6,https://oag.ca.gov/system/files/Non-Massachusetts%20consumer%20notification%20letter%20FINAL%20AAG_0.PDF?
-1868,Columbian Financial Group,,05/09/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://doj.nh.gov/consumer/security-breaches/documents/columbian-financial-group-20150417.pdf
-1869,Columbian Mutual Life Insurance Company,,03/21/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://www.localsyr.com/story/d/story/flash-drive-with-names-ss-numbers-other-personal-d/53230/RiAyqIjpykOsS15nrfi5MA
-1870,Cooper University Health Care,,04/18/15,Identity Theft,Accidental Loss,United States,Healthcare,0.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253588%20(1).pdf
-1871,Derby City Council,,01/27/15,Identity Theft,Accidental Loss,United Kingdom,Government,0.6,http://www.derbytelegraph.co.uk/Children-s-details-lost-sent-wrong-place-Derby/story-26219043-detail/story.html
-1872,Derby City Council,,02/04/15,Identity Theft,Accidental Loss,United Kingdom,Government,0.6,http://www.derbytelegraph.co.uk/Children-s-details-lost-sent-wrong-place-Derby/story-26219043-detail/story.html
-1873,Derby City Council,,01/14/15,Identity Theft,Accidental Loss,United Kingdom,Government,0.6,http://www.derbytelegraph.co.uk/Children-s-details-lost-sent-wrong-place-Derby/story-26219043-detail/story.html
-1874,Dow Corning Corporation,,08/31/15,Identity Theft,Accidental Loss,United States,Other,0.6,http://doj.nh.gov/consumer/security-breaches/documents/dow-corning-20151030.pdf
-1875,Internet Explorer (Microsoft ),,02/04/15,Identity Theft,Accidental Loss,United States,Technology,0.6,http://www.theregister.co.uk/2015/02/04/canary_watch/
-1876,Israli Insurance,,07/23/15,Nuisance,Malicious Outsider,Israel,Financial,0.6,http://www.israelnationalnews.com/News/News.aspx/198513#.VbLV4bNViko
-1877,M&T Bank,,03/23/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253787.pdf
-1878,Momentive Performance - Materials Savings Plan (Fidelity),,01/28/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://doj.nh.gov/consumer/security-breaches/documents/momentive-performance-20150401.pdf
-1879,Providence ST. Joseph Medical Center,,02/28/15,Identity Theft,Accidental Loss,United States,Healthcare,0.6,https://oag.ca.gov/system/files/Providence%20Adult%20Notice_0.pdf?
-1880,Royal Cornwall Hospital (Truro hospital),,03/06/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,0.6,http://www.westbriton.co.uk/Patients-notes-left-display-parked-car/story-26118060-detail/story.html
-1881,ValuTeachers,,02/02/15,Identity Theft,Accidental Loss,United States,Other,0.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-251206.pdf
-1882,Marriott International Android app ,,02/21/15,Account Access,Accidental Loss,United States,Other,0.3,http://www.scmagazine.com/marriott-fixes-android-app-issue-that-may-have-exposed-personal-data/article/394750/
-1883,Victor Valley College ,,01/30/15,Nuisance,Accidental Loss,United States,Education,0.0,http://www.vvdailypress.com/article/20150130/NEWS/150139991
+1516,Tescophoto.com,,07/15/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://krebsonsecurity.com/2015/07/cvs-probes-card-breach-at-online-photo-unit/
+1517,The College of Registered Nurses of Manitoba,,10/17/15,Identity Theft,Malicious Insider,Canada,Healthcare,2.1,http://www.cbc.ca/news/canada/manitoba/2-manitoba-nurses-fined-1k-each-for-breaching-patient-privacy-1.3275793
+1518,Thousand Oaks ,,03/19/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.toacorn.com/news/2015-03-19/Community/Two_card_skimmers_uncovered_at_TO_gas_station_this.html
+1519,Totally Promotional/Casad,,07/06/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.scmagazine.com/totally-promotional-attack-compromises-payment-cards-other-data/article/434514/
+1520,Town & Country Bank and Trust Co,,10/10/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.kystandard.com/content/fraudulent-card-transactions-linked-skimming-device
+1521,Transport for London,,03/03/15,Identity Theft,Malicious Insider,United Kingdom,Government,2.1,http://www.secuobs.com/revue/news/562111.shtml
+1522,Tri-City Medical Center,,12/29/15,Identity Theft,Malicious Insider,United States,Healthcare,2.1,http://www.payersandproviders.com/news-article.php?news_id=1232&region=3
+1523,Tri-State bank (Evansville Federal Credit Union),,05/11/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.14news.com/story/29035618/card-skimming-device-discovered-at-tri-state-bank
+1524,Trump Hotel Properties,,02/09/15,Financial Access,Malicious Outsider,United States,Hospitality,2.1,http://krebsonsecurity.com/2015/07/banks-card-breach-at-trump-hotel-properties/
+1525,TVNZ,,05/02/15,Financial Access,Malicious Outsider,New Zealand,Other,2.1,http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11560265
+1526,UAE Bank,,07/09/15,Financial Access,Malicious Outsider,Dubai,Financial,2.1,http://www.emirates247.com/business/technology/fraud-alert-uae-banks-replace-credit-cards-after-security-scare-2015-08-05-1.599203
+1527,Uber U.S.,,05/02/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://motherboard.vice.com/read/more-uber-accounts-have-been-hacked-this-time-in-the-united-states
+1528,Ubiquiti Networks,,06/05/15,Financial Access,Malicious Outsider,United States,Technology,2.1,http://www.csoonline.com/article/2961066/supply-chain-security/ubiquiti-networks-victim-of-39-million-social-engineering-attack.html
+1529,UCLA Health,1,08/22/15,Identity Theft,Malicious Insider,United States,Healthcare,2.1,http://asianjournal.com/consumer/ex-lovers-quarrel-lead-to-disclosure-of-private-medical-information/
+1530,University Technical College (UTC) Warrington,,10/06/15,Identity Theft,Malicious Insider,United Kingdom,Education,2.1,http://www.warringtonguardian.co.uk/news/13806171.Council_investigating_claims_of_data_protection__breach__over__eligible__pupils_at_UTC/
+1531,UW Credit Union ATM,,05/30/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.wkow.com/story/29456888/2015/07/01/skimming-case-at-fitchburg-credit-union-latest-data-theft
+1532,Valero Store,,11/29/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://abc13.com/news/two-men-sought-after-card-skimmer-attached-to-atm/1103287/
+1533,Vernon detachment,,12/15/15,Identity Theft,Malicious Insider,United States,Government,2.1,http://globalnews.ca/news/2403550/retired-mountie-fired-from-civilian-job-at-vernon-detachment-for-security-breach/
+1534,Village Pizza & Pub/ TransformPOS/CoffeeBytes/University of Washington,,08/02/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://www.chainstoreage.com/article/hackers-hit-pizza-chain-through-pos-vendor
+1535,Vmware,,07/02/15,Financial Access,Malicious Outsider,United States,Technology,2.1,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257989.pdf
+1536,Wayland treasurer,,05/21/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://wayland.wickedlocal.com/article/20150521/NEWS/150528617
+1537,Westpac / Auckland cash machine,,08/26/15,Financial Access,Malicious Outsider,New Zealand,Financial,2.1,http://www.stuff.co.nz/auckland/71469912/skimming-device-found-on-auckland-cash-machine
+1538,White Lodging Hotel,,02/05/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.prnewswire.com/news-releases/white-lodging-releases-information-about-data-breach-investigation-at-select-food-and-beverage-outlets-300062065.html
+1539,Wilderness Resort,,06/08/15,Financial Access,Malicious Outsider,United States,Other,2.1,http://www.miltonstart.com/blog/2015/11/23/wilderness-resort-hit-by-data-breach-credit-cards-affected/
+1540,Workers' Compensation Board of Nova Scotia,,12/19/15,Identity Theft,Malicious Insider,United States,Healthcare,2.1,http://thechronicleherald.ca/metro/1328526-halifax-doctor-reprimanded-for-snooping-in-case-files-of-injured-workers
+1541,Worldwide Wine & Spirits,,01/28/15,Financial Access,Malicious Outsider,United States,Retail,2.1,http://www.myrecordjournal.com/southington/southingtonnews/6745176-129/police-investigating-credit-card-breach-at-southington-liquor-store.html
+1542,Zions Bank ATM,,02/15/15,Financial Access,Malicious Outsider,United States,Financial,2.1,http://www.idahostatejournal.com/members/atm-skimming-problem-at-zions-still-not-resolved/article_af891de6-c495-11e4-898f-1ba8c3ff57ac.html
+1543,Abercrombie & Fitch ,,04/15/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://doj.nh.gov/consumer/security-breaches/documents/abercrombie-fitch-20150415.pdf
+1544,Adams County National Bank ,,12/17/15,Financial Access,Malicious Insider,United Kingdom,Financial,2.0,http://abc27.com/2015/12/17/york-man-indicted-in-bank-fraud-identity-theft-case/
+1545,Allied Cash Advance,,06/01/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.your4state.com/story/d/story/winchester-woman-accused-of-embezzling-from-former/17690/eyJSLNmOFkGKxaiecbGWqA
+1546,Applebee's,,04/22/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://wavy.com/2015/11/23/applebees-employee-fired-for-having-credit-card-skimming-device/
+1547,BancCentral,,06/09/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.alvareviewcourier.com/news/local/article_f1f054a4-1893-11e5-ab6e-1bdd9cd1921c.html
+1548,Bed Bath & Beyond ,,03/07/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Bed%20Bath%20and%20Beyond%20SBN%20to%20Consumers.pdf
+1549,Brookdale Main Street,,07/06/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.tennessean.com/story/news/local/sumner/hendersonville/2016/02/01/woman-indicted-theft-elderly-resident/79642060/
+1550,Cash Express,,07/03/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.maysville-online.com/news/local/former-cash-express-employee-arrested/article_3fdddb7b-8e7c-5657-826b-8e3a1d5aad21.html
+1551,Cedars Health Clinics ,,04/07/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://thesheridanpress.com/?p=46743
+1552,Champs Sports,,10/09/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://miami.suntimes.com/mia-business/7/97/333637/store-manager-charged-with-skimming-customers-credit-cards
+1553,Citibank,,07/02/15,Financial Access,Malicious Insider,Australia,Financial,2.0,http://www.smh.com.au/nsw/philippines-call-centre-worker-stole-australian-citibank-customer-details-for-sydney-crime-gang-police-say-20150702-gi3lbd.html
+1554,Department of Taxation and Finance,,08/08/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.timesunion.com/local/article/State-tax-worker-allegedly-netted-50-000-through-6546863.php
+1555,Escambia County Department of Human Resources,,08/29/15,Financial Access,Malicious Insider,United States,Government,2.0,http://www.al.com/news/mobile/index.ssf/2015/08/report_2_dhr_employees_among_4.html
+1556,Florida's Department of Children & Families,,08/05/15,Financial Access,Malicious Insider,United States,Government,2.0,http://www.miamiherald.com/news/local/crime/article30163992.html
+1557,Ginger Blossom,,09/26/15,Financial Access,Malicious Insider,United States,Other,2.0,http://wwlp.com/2015/09/25/waiter-charged-with-credit-card-fraud/
+1558,Glastonbury Supermarket,,01/01/15,Financial Access,Malicious Insider,United States,Retail ,2.0,http://www.nbcconnecticut.com/news/local/Glastonbury-Supermarket-Employee-Accused-of-Credit-Card-Fraud--287554241.html
+1559,Green Group,,02/27/15,Existential Data,Hacktivist,United States,Government,2.0,http://www.scmagazine.com/news-alert-hacktivists-claim-to-have-accessed-files-from-private-us-based-defense-group/article/400741/
+1560,Hard Money,3,01/30/15,Nuisance,Malicious Insider,United States,Financial,2.0,http://www.justice.gov/usao-ndca/pr/fortuna-resident-indicted-loan-fraud-and-identity-theft
+1561,Ichiban Chinese Buffet,,01/05/15,Financial Access,Malicious Insider,United States,Other,2.0,http://m.staugustine.com/news/local-news/2015-02-03/sheriffs-office-temp-waiter-suspected-skimming-credit-cards#gsc.tab=0
+1562,ISIS,9,09/10/15,Nuisance,Hacktivist,Global,Government,2.0,http://www.theepochtimes.com/n3/1749260-hacker-trick-isis-agents-into-giving-their-phone-numbers-and-home-addresses/
+1563,Italy's Expo 2015,,04/30/15,Existential Data,Hacktivist,Italy,Education,2.0,http://www.ibtimes.com/anonymous-hackers-claim-1-terabyte-passwords-stolen-italys-expo-2015-1927082
+1564,JP Morgan Chase Bank  in White Plains,,02/10/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.midhudsonnews.com/News/2015/February/10/Figueroa_guilty-10Feb15.htm
+1565,Kohl's,,02/05/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-251180.pdf
+1566,Lillian's Restaurant,,07/02/15,Financial Access,Malicious Insider,United States,Other,2.0,http://wnyt.com/article/stories/s3866942.shtml
+1567,Madison Park Senior Community,1,03/17/15,Financial Access,Malicious Insider,United States,Government,2.0,http://www.wsaz.com/home/headlines/296597421.html
+1568,"Martin Schulz, The President of the European Parliament",,02/09/15,Existential Data,Hacktivist,Belgium,Government,2.0,http://news.softpedia.com/news/Website-of-European-Parliament-President-Hacked-472575.shtml
+1569,McDonald's at Raleigh drive,,09/08/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://wncn.com/2015/09/09/mcdonalds-workers-skimmed-credit-cards-at-raleigh-drive-thru-police-say/
+1570,Morgan County Health Center,,03/26/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.lakenewsonline.com/article/20150706/NEWS/150709405
+1571,myRepoSpace,,07/09/15,Existential Data,Malicious Outsider,Global,Technology,2.0,https://github.com/EthanArbuckle/MyRepoSpace-Hack
+1572,Partners in Care,1,02/15/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.silive.com/news/index.ssf/2015/02/home_health_aide_with_troubled.html
+1573,President Obama's email ,,04/25/15,Account Access,State Sponsored,United States,Government,2.0,http://www.nytimes.com/2015/04/26/us/russian-hackers-read-obamas-unclassified-emails-officials-say.html?_r=0
+1574,Red Star Craft House,,02/01/15,Financial Access,Malicious Insider,United States,Other,2.0,http://www.dailylocal.com/20150221/police-arrest-waitress-for-alleged-theft-forgery
+1575,Registrar RD Musalgaonkar's,1,01/22/15,Existential Data,Malicious Outsider,United States,Education,2.0,http://freepressjournal.in/registrars-email-hacked-misused-on-utd-campus/
+1576,Republic of Kazakhstan,,03/04/15,Existential Data,Malicious Outsider,Kazakhstan,Government,2.0,http://www.international.law.com/asia-top-news/id=1202720724049/Computer-Hack-in-Kazakhstan-Exposes-Client-Emails-with-Curtis?mcode=1399329856914&curindex=1&back=GLN
+1577,Rite Aid,,11/05/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.poughkeepsiejournal.com/story/news/crime/2016/02/03/rite-aid-associate-stole-customer-addresses-credit-card-numbers/79762090/
+1578,Rockland Nissan,,11/28/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.lohud.com/story/news/crime/2015/11/27/car-salesman-charged/76462074/
+1579,"SendGrid, Coinbase",,03/09/15,Financial Access,Malicious Insider,United States,Technology,2.0,https://sendgrid.com/blog/update-on-security-incident-and-additional-security-measures/
+1580,SMS Hospitality,,05/28/15,Financial Access,Malicious Insider,United States,Other,2.0,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257938.pdf
+1581,Staples ,,01/28/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.dailyfreeman.com/general-news/20150226/employees-of-staples-store-in-ulster-used-stolen-credit-card-info-to-buy-30000-worth-of-goods-police-say
+1582,Taco Bell,,03/11/15,Financial Access,Malicious Insider,United States,Retail ,2.0,http://patch.com/georgia/roswell/police-taco-bell-employee-stole-identities-while-working-drive-thru-window-0
+1583,Taco Bell,1,08/29/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://www.sharonherald.com/news/local_news/click-here-for-story/article_ad54389d-039f-5a77-af3d-f4ce9f251787.html
+1584,TD Bank,,09/15/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://doj.nh.gov/consumer/security-breaches/documents/td-bank-20150904.pdf
+1585,Tygervalley Restaurant,,12/11/15,Financial Access,Malicious Insider,South Africa,Other,2.0,http://beta.iol.co.za/news/crime-courts/waiter-fined-for-possessing-card-skimmer-1959376
+1586,U.S Army,1,10/09/15,Identity Theft,State Sponsored,United States,Government,2.0,http://news.sky.com/story/1566602/us-soldier-threatened-by-british-is-jihadi
+1587,UK parliament,,11/09/15,Existential Data,Hacktivist,United Kingdom,Government,2.0,http://www.express.co.uk/life-style/science-technology/618063/Parliament-Hacked-Files-MP-Ransom
+1588,Unique Gifts by Jacquelynn,,05/17/15,Financial Access,Malicious Insider,United States,Retail,2.0,http://clintonnc.com/news/1936/dtown-employee-arrested
+1589,USF Credit Union,,02/05/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.wtsp.com/story/news/local/2015/02/11/usf-employee-arrested-for-fraud-id-theft/23259445/
+1590,Vancor Manor Nursing Home,,12/17/15,Financial Access,Malicious Insider,United States,Healthcare,2.0,http://www.tennessean.com/story/news/crime/2015/12/31/goodlettesville-nursing-home-tech-charged-identity-theft-patient/78122368/
+1591,Wayne Country Sheriff's department,,05/18/15,Existential Data,Malicious Outsider,United States,Government,2.0,https://www.hackread.com/wayne-county-sheriffs-dept-website-defaced/
+1592,Wells Fargo Bank ,1,02/15/15,Financial Access,Malicious Insider,United States,Financial,2.0,http://www.gvnews.com/news/local/bank-employee-booked-in-gv-fraud-case/article_b42f12ea-b93e-11e4-af1e-1f71e9e9ae79.html
+1593,Xbox One SDK,,01/08/15,Existential Data,Malicious Outsider,United States,Technology,2.0,http://www.scmagazine.com/h4lt-hacking-team-leaks-secret-xbox-one-sdk-accesses-unreleased-games/article/390936/
+1594,airBaltic,,11/22/15,Existential Data,Malicious Insider,Latvia,Other,1.9,http://www.baltic-course.com/eng/transport/?doc=113244
+1595,Alabama Legislative email,,05/21/15,Account Access,Malicious Outsider,United States,Government,1.9,http://www.al.com/news/index.ssf/2015/05/state_email_system_victim_of_a.html
+1596,Amazon ,,11/24/15,Account Access,Malicious Outsider,United States,Retail,1.9,http://www.securityweek.com/amazon-forces-password-resets-after-possible-security-breach
+1597,Atlassian (HipChat ),,01/31/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.zdnet.com/article/atlassian-resets-some-hipchat-passwords-after-breach/
+1598,Brabantia,,06/05/15,Account Access,Malicious Outsider,Netherlands,Retail,1.9,http://www.theregister.co.uk/2015/06/05/brabantia_breached_bins_hack_address/
+1599,Calgary Board of Education,,03/20/15,Account Access,Malicious Outsider,Canada,Education,1.9,http://www.660news.com/2015/03/20/possible-security-breach-at-calgary-board-of-education/
+1600,CareerBuilder,,04/30/15,Account Access,Malicious Outsider,United States,Other,1.9,http://www.csoonline.com/article/2916524/social-engineering/careerbuilder-listings-used-as-phishing-platform.html
+1601,City Of WPB,,09/15/15,Existential Data,Malicious Insider,United States,Government,1.9,http://www.cbs12.com/news/top-stories/stories/vid_29333.shtml
+1602,Copart,,03/31/15,Account Access,Malicious Outsider,United States,Other,1.9,http://news.softpedia.com/news/Copart-com-Breached-Driver-s-License-Numbers-Exposed-482625.shtml
+1603,David Jones,,10/02/15,Account Access,Malicious Outsider,Australia,Retail,1.9,http://www.theaustralian.com.au/business/latest/david-jones-website-hacked/story-e6frg90f-1227553931692
+1604,dubizzle UAE,,08/02/15,Account Access,Malicious Outsider,United Arab Emirates,Retail,1.9,https://gulfbusiness.com/2015/08/online-marketplace-dubizzle-uae-faces-security-breach/
+1605,EDnergy Companies,,02/01/15,Account Access,Malicious Outsider,Global,Other,1.9,http://www.symantec.com/connect/blogs/new-reconnaissance-threat-trojanlaziok-targets-energy-sector
+1606,Food.com /Scripps Network/ FoodNetwork.com,,09/16/15,Account Access,Malicious Outsider,United States,Other,1.9,https://oag.ca.gov/system/files/Consumer%20Notice_2.pdf?
+1607,Gyft ,,12/23/15,Account Access,Malicious Outsider,United States,Other,1.9,http://www.scmagazine.com/gyft-resets-some-customer-passwords-following-breach/article/460904/
+1608,Harvard/ Faculty of Arts and Sciences and Central Administration information technology networks,,06/19/15,Account Access,Malicious Outsider,United States,Education,1.9,http://security.harvard.edu/cyber-alert
+1609,Hex-Rays (IDA (Interactive Disassembler),,05/25/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://news.softpedia.com/news/Cyber-Attack-on-IDA-Server-Prompts-License-Key-Replacement-482331.shtml
+1610,Hirsche Private,,01/07/15,Identity Theft,Malicious Outsider,Taiwan,Other,1.9,http://www.wkrg.com/story/27784109/hirsche-private-asset-emergency-announcement-regarding-breach-of-it-security-by-hacker-group
+1611,HLTV (CS:GO),,02/11/15,Account Access,Malicious Outsider,United States,Other,1.9,http://www.tweaktown.com/news/43399/popular-cs-go-website-hltv-reports-security-breach/index.html
+1612,Hollywood's celebs,4,11/09/15,Identity Theft,Accidental Loss,United States,Other,1.9,http://www.kvue.com/story/news/local/2015/11/20/austin-dumpster-diver-finds-a-list-actors-private-info/76144154/
+1613,Hover,,08/05/15,Account Access,Malicious Outsider,Canada,Technology,1.9,https://grahamcluley.com/2015/08/security-alert-hover-leads-password-reset/
+1614,InstaAgent/Google/Apple,,11/11/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.macrumors.com/2015/11/10/malicious-instaagent-instagram-app/
+1615,Kean University,,12/21/15,Account Access,Malicious Outsider,United States,Education,1.9,https://www.tapinto.net/towns/east-orange-slash-orange/articles/kean-university-hacked-three-times-in-one-day-al-18
+1616,Kettering General Hospital,,08/15/15,Account Access,Malicious Outsider,United Kingdom,Other,1.9,http://www.scmagazineuk.com/exclusive-kettering-general-hospital-investigating-email-data-breach/article/439350/
+1617,LastPass,,06/19/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://krebsonsecurity.com/2015/06/password-manager-lastpass-warns-of-breach/#more-31259
+1618,Livestream,,12/23/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.engadget.com/2015/12/23/livestream-alerts-customers-it-may-have-been-hacked/
+1619,Mandrill,,02/10/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.pcworld.com/article/2899292/mandrill-warns-attack-may-have-exposed-some-data-about-email.html
+1620,Microsoft's anti-surveillance website,,06/18/15,Account Access,Malicious Outsider,United Kingdom,Technology,1.9,http://www.net-security.org/secworld.php?id=18528
+1621,Missile-Defense Program,,12/28/15,Existential Data,Malicious Insider,Israel,Government,1.9,http://www.pjstar.com/article/ZZ/20151228/NEWS/312289973/16946/NEWS
+1622,Mt Albert Grammar,,10/19/15,Account Access,Malicious Outsider,New Zealand,Education,1.9,http://www.stuff.co.nz/technology/73187088/students-get-porn-message-after-high-schools-email-hacked
+1623,"NATO, White House",,09/07/15,Account Access,Malicious Outsider,United States,Government,1.9,http://blog.trendmicro.com/trendlabs-security-intelligence/pawn-storm-targets-mh17-investigation-team/
+1624,Niteworks,,11/13/15,Account Access,Malicious Outsider,United Kingdom,Technology,1.9,http://www.theregister.co.uk/2015/11/13/mod_nitworks_breached/
+1625,Ohio Prison,,07/16/15,Account Access,Malicious Outsider,United States,Government,1.9,http://www.dispatch.com/content/stories/local/2015/07/16/ohio-inmate-password-breach.html
+1626,Perth Police Department,,03/12/15,Existential Data,Malicious Insider,Australia,Government,1.9,http://www.perthnow.com.au/news/western-australia/policeman-charged-with-leaking-information-about-ben-cousins-arrest-to-tv-reporter-girlfriend-keeps-his-job/story-fnhocxo3-1227370169753
+1627,Photobucket,,05/11/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.frontlinedesk.com/2015055722-photobucket-security-breached-photofcket-men-arrested/
+1628,Play.com,,03/01/15,Account Access,Malicious Outsider,United Kingdom,Retail,1.9,http://networksecurityreport.siteblogs.net/2015/02/28/play-com-compromised-and-security-breach-admitted/
+1629,PoliceOne Forums,,06/08/15,Account Access,Malicious Outsider,United States,Social Media,1.9,https://oag.ca.gov/system/files/Praetorian%20Digital%20notice%20only%20CA_0_0.pdf?
+1630,Prominent US Senators and Mayors,2,11/02/15,Identity Theft,Hacktivist,United States,Government,1.9,http://usuncut.com/politics/anonymous-unhoods-kkk-prominent-politicians/
+1631,Puush,,03/30/15,Account Access,Malicious Outsider,Australia,Technology,1.9,http://www.scmagazine.com/cyber-attack-on-puush-prompts-password-changes/article/406201/
+1632,Raptr,,01/31/15,Account Access,Malicious Outsider,United States,Technology,1.9,http://www.cinemablend.com/games/Raptr-Hacked-Change-Your-Passwords-69760.html
+1633,RateMyProfessors,,12/24/15,Account Access,Malicious Outsider,United States,Education,1.9,https://oag.ca.gov/system/files/RateMyProfessors%20User%20Notification%2020160106%20-%20Attach%20to%20California%20AG%20Notice_0.pdf?
+1634,RealSelf,,12/25/15,Account Access,Malicious Outsider,United States,Retail,1.9,https://oag.ca.gov/system/files/RealSelf%20Notice_0.pdf?
+1635,St. Louis Federal Reserve,,04/24/15,Account Access,Malicious Outsider,United States,Financial,1.9,http://krebsonsecurity.com/2015/05/st-louis-federal-reserve-suffers-dns-breach/
+1636,Touchnote ,,11/04/15,Account Access,Malicious Outsider,United Kingdom,Technology,1.9,http://www.androidcentral.com/popular-postcard-app-touchnote-suffers-data-breach
+1637,Toys-R-Us,,01/28/15,Account Access,Malicious Outsider,United States,Retail,1.9,http://www.scmagazine.com/attacks-attempt-to-access-rewardsrus-accounts/article/401160/
+1638,W.W. Grainger,,10/27/15,Account Access,Malicious Outsider,United States,Technology,1.9,https://oag.ca.gov/system/files/Sample%20Notice%20Letter_0.pdf?
+1639,Xero,,10/23/15,Account Access,Malicious Outsider,Australia,Technology,1.9,https://grahamcluley.com/2015/10/online-accounting-software-xero-tells-users-reset-passwords-accounts-breached/
+1640,ZenPayroll,,04/29/15,Account Access,Malicious Outsider,United States,Financial,1.9,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253546.pdf
+1641,CoinCut,,07/23/15,Financial Access,Malicious Outsider,United Kingdom,Financial,1.8,http://www.coindesk.com/customer-data-leaked-in-possible-bitcoin-vendor-breach/
+1642,Department of Social Protection,3,05/04/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.8,http://www.irishtimes.com/news/crime-and-law/man-was-sent-strangers-bank-statements-and-payslips-in-post-1.2198893
+1643,Dr Laza Lazarevic,1,12/15/15,Identity Theft,Malicious Insider,Serbia,Healthcare,1.8,http://www.bdklegal.com/blogs/data-protection-and-privacy/health-data/803-serbia-mental-health-data-leakage
+1644,ITBus,,03/15/15,Account Access,Malicious Insider,United Kingdom,Technology,1.8,https://www.databreaches.net/uk-five-men-sentenced-over-insider-breach-helping-corporate-rival/
+1645,Kmart,,09/01/15,Account Access,Malicious Insider,Australia,Retail,1.8,http://www.zdnet.com/article/kmart-customer-details-hacked/
+1646,Lyell McEwin Hospital,3,03/02/15,Identity Theft,Accidental Loss,Australia,Healthcare,1.8,http://www.abc.net.au/news/2015-03-02/patient-seeks-answers-after-confidential-medical-records-leaked/6274944
+1647,Max Credit Union (River Region credit union),,03/13/15,Identity Theft,Malicious Insider,United States,Financial,1.8,http://www.azfamily.com/story/28547434/max-credit-union-employee-accused-of-sharing-customer-info-on-social-media
+1648,MTN South Africa,,05/14/15,Financial Access,Malicious Outsider,South Africa,Financial,1.8,http://www.techcentral.co.za/mtn-shuts-down-e-billing-portal/56843/
+1649,Saher ,,03/15/15,Identity Theft,Malicious Insider,Saudi Arabia,Government,1.8,http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20150315236947
+1650,South Carolina Medicaid agency ,,12/06/15,Identity Theft,Malicious Insider,United States,Healthcare,1.8,http://www.postandcourier.com/20160516/160519730/sc-medicaid-agency-apologizes-for-patient-privacy-breach
+1651,Texas Health Presbyterian Hospital,1,01/01/15,Identity Theft,Malicious Insider,United States,Healthcare,1.8,http://www.kvue.com/story/news/state/2015/03/01/nina-pham-to-sue-hospital-for-negligence-invasion-of-privacy/24230501/
+1652,The office of Nova Scotia Premier Stephen McNeil ,1,11/23/15,Identity Theft,Malicious Insider,Canada,Government,1.8,http://www.huffingtonpost.ca/2016/02/11/premier-s-aide-broke-law-by-revealing-health-details-of-cabinet-minister-report_n_9209514.html
+1653,Best Union,,05/01/15,Existential Data,Hacktivist,Italy,Other,1.7,http://securityaffairs.co/wordpress/36907/cyber-crime/expo-2015-anonymous-attacks.html
+1654,Canadian Security Intelligence Service (CSIS),,07/25/15,Existential Data,Hacktivist,Canada,Government,1.7,http://news.nationalpost.com/news/canada/anonymous-says-it-hacked-canadas-security-secrets-in-retaliation-for-police-shooting-of-b-c-activist
+1655,Clayton Valley Charter High School,,08/12/15,Existential Data,Hacktivist,United States,Education,1.7,http://www.santacruzsentinel.com/general-news/20150820/clayton-valley-charter-attorney-asks-newspaper-to-return-hacked-files-if-obtained/1
+1656,Grapevine Police Departments,,04/13/15,Existential Data,Hacktivist,United States,Government,1.7,http://thescoopblog.dallasnews.com/2015/04/anonymous-hacker-group-demands-police-video-of-shooting-of-mexican-immigrant-by-grapevine-cop.html/
+1657,State Information Technology Agency (SITA),,08/20/15,Existential Data,Hacktivist,South Africa,Government,1.7,https://www.hackread.com/opmonsanto-anonymous-hacks-south-african-govt/
+1658,Thai Police,,12/01/15,Existential Data,Hacktivist,Thiland,Government,1.7,http://news.softpedia.com/news/anonymous-hacks-thai-police-opsinglegateway-still-alive-496978.shtml
+1659,Big Blue Interactive,,01/13/15,Account Access,Malicious Outsider,United States,Other,1.6,http://puu.sh/eyH6F/ca2c9da32d.png
+1660,Clearwater Police Department,,01/24/15,Nuisance,Malicious Outsider,United States,Government,1.6,http://www.wtsp.com/story/news/investigations/2015/01/23/pinellas-judges-police-officers-state-attorneys-identity-theft-10-investigates/22242449/
+1661,Crystal ,,11/05/15,Account Access,Malicious Outsider,New Zealand,Technology,1.6,http://mybroadband.co.za/news/adsl/144955-crystal-web-suffers-adsl-security-breach.html
+1662,Easily.co.uk/NetNames,,12/11/15,Nuisance,Malicious Outsider,United Kingdom,Technology,1.6,http://www.theregister.co.uk/2015/12/11/easily_hacked/
+1663,Fab-Defense (fab-defense.com),,04/21/15,Identity Theft,Hacktivist,Israel,Other,1.6,https://www.hackread.com/anonymous-hacks-israel-arms-website-data-leak/
+1664,For The Record,,03/27/15,Nuisance,Malicious Outsider,Australia,Other,1.6,http://www.theregister.co.uk/2015/03/27/brisbane_court_recording_outfit_breached/
+1665,Port Hardy firefighters,2,07/10/15,Account Access,Hacktivist,Canada,Other,1.6,https://www.hackread.com/anonymous-bear-cubs-animal-cruelty/
+1666,Repair Services,2,05/05/15,Identity Theft,Accidental Loss,United States,Retail,1.6,http://www.kvue.com/story/news/local/2016/01/14/couple-sues-plano-company-after-private-images-posted-online/78815146/
+1667,Roundpoint Mortgage ,,01/30/15,Nuisance,Malicious Outsider,United States,Financial,1.6,http://doj.nh.gov/consumer/security-breaches/documents/roundpoint-mortgage-servicing-20150609.pdf
+1668,shorepowerinc.com,,04/23/15,Nuisance,Malicious Outsider,United States,Other,1.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-256821.pdf
+1669,"University of Kentucky, University of Connecticut, University of Maryland, Coastal Carolina University, and Abertay University",,01/04/15,Account Access,Malicious Outsider,United States,Education,1.6,https://twitter.com/UofMaryland?original_referer=http%3A%2F%2Fwww.databreaches.net%2Funiversities-hacked-data-dumped-by-marxistattorney%2F&tw_i=542809548692938752&tw_p=tweetembed
+1670,Volkswagen of Oakland ,,07/19/15,Nuisance,Malicious Outsider,United States,Other,1.6,https://oag.ca.gov/system/files/Security%20Breach%20Notice_1.pdf?
+1671,Washington Township Health Care District (Washington Hospital Healthcare System)/Washington Community Health Resource Library,,10/08/15,Nuisance,Malicious Outsider,United States,Healthcare,1.6,https://oag.ca.gov/system/files/WH.Adult_.Final_.12.28.15_0.pdf?
+1672,Bay Area Chiropractic Center,,08/31/15,Nuisance,Malicious Insider,United States,Healthcare,1.5,https://justice.oregon.gov/consumer/DataBreach/Home/GetBreach/846048661
+1673,Corrections Victoria/ Beechworth Correctional Centre,,07/20/15,Financial Access,Unknown,Australia,Government,1.5,http://www.heraldsun.com.au/
+1674,Dental Arts Group,,02/26/15,Nuisance,Malicious Insider,United States,Healthcare,1.5,http://www.fbi.gov/washingtondc/press-releases/2015/dental-practice-owner-charged-with-health-care-fraud-and-identity-theft
+1675,Fort Riley base (U.S. Army),1,02/05/15,Nuisance,Malicious Insider,United States,Government,1.5,http://news.softpedia.com/news/Fort-Riley-Private-Accused-of-Stealing-Soldiers-Identities-480624.shtml
+1676,Intelligent Transportation Systems Society of Canada,,06/02/15,Financial Access,Hacktivist,Canada,Government,1.5,http://motherboard.vice.com/read/anonymous-claims-it-leaked-passwords-and-credit-card-info-of-canadian-officials
+1677,Ooredoo Myanmar,,06/03/15,Nuisance,Malicious Insider,Burma,Other,1.5,http://www.mmtimes.com/index.php/business/technology/16295-ooredoo-data-breach-brings-legal-action.html
+1678,Richmond County,1,03/09/15,Nuisance,Malicious Insider,United States,Government,1.5,http://www.bizjournals.com/atlanta/news/2015/03/09/ex-coroner-faces-charges-for-using-dead-person-s.html
+1679,Wellington Property Management,,02/18/15,Nuisance,Malicious Insider,New Zealand,Other,1.5,http://www.stuff.co.nz/dominion-post/66130103/Espionage-claim-at-capital-firm
+1680,Brooklyn Warehouse,,02/01/15,Existential Data,Accidental Loss,United States,Other,1.4,http://www.nytimes.com/2015/02/02/nyregion/large-warehouse-fire-continues-to-burn-in-brooklyn.html?_r=1
+1681,Canada's Electronic Surveillance Agency,,01/20/15,Existential Data,Accidental Loss,Canada,Government,1.4,http://www.thewhir.com/web-hosting-news/physical-breach-highlights-security-holes-canadas-electronic-surveillance-agency
+1682,Cape Coral Police,,05/07/15,Existential Data,Accidental Loss,United States,Government,1.4,http://www.nbc-2.com/story/29066804/nbc2-investigators-find-personal-info-fbi-report-left-in-scrapped-cop-car#.VVigyPlVikp
+1683,Child Sexual Abuse,,10/20/15,Existential Data,Accidental Loss,United Kingdom,Government,1.4,http://www.radionz.co.nz/news/world/287546/advocates-upset-at-abuse-inquiry-data-loss
+1684,City Rheinberg ,,06/24/15,Existential Data,Accidental Loss,Germany,Government,1.4,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.rp-online.de%2Fnrw%2Fstaedte%2Frheinberg%2Fdatenpanne-stadt-rheinberg-schaltet-vertrag-mit-enni-frei-aid-1.5188473&edit-text=
+1685,Cloud Imperium Games,,05/26/15,Existential Data,Accidental Loss,United States,Technology,1.4,http://www.businessinsider.com.au/star-citizen-disco-lando-file-leak-2015-5
+1686,Danske Bank,,08/14/15,Existential Data,Accidental Loss,Denmark,Financial,1.4,http://news.softpedia.com/news/danish-bank-leaves-server-in-debug-mode-exposes-sensitive-information-in-javascript-comments-493838.shtml
+1687,Electronic Arts (EA),,10/15/15,Existential Data,Accidental Loss,United States,Technology,1.4,http://www.csoonline.com/article/2993909/data-breach/data-dump-suggests-possible-breach-at-electronic-arts.html
+1688,Heritage Foundation,,09/02/15,Existential Data,Accidental Loss,United States,Financial,1.4,http://www.politico.com/story/2015/09/heritage-foundation-emails-donor-data-stolen-in-data-breach-213292
+1689,Locker ransomware,,05/30/15,Existential Data,Accidental Loss,New Zealand,Technology,1.4,http://pastebin.com/1WZGqrUH
+1690,New Zealand Police,,09/09/15,Existential Data,Accidental Loss,New Zealand,Government,1.4,http://www.radionz.co.nz/news/national/284013/lawyer-'not-obliged'-to-return-secret-files
+1691,Norfolk County Council ,,06/29/15,Existential Data,Accidental Loss,United Kingdom,Government,1.4,http://www.edp24.co.uk/news/norfolk_county_council_sells_filing_cabinet_with_confidential_information_still_inside_1_4130279
+1692,NTV & Channel One,,11/10/15,Existential Data,Accidental Loss,Russia,Government,1.4,http://news.walla.co.il/item/2906267
+1693,Private Internet Access,,11/17/15,Existential Data,Accidental Loss,United Kingdom,Technology,1.4,https://www.privateinternetaccess.com/forum/discussion/19310/ip-leak-vulnerability-in-port-forwarding-feature
+1694,The Bank of England,,05/24/15,Existential Data,Accidental Loss,United Kingdom,Financial,1.4,http://www.benchmarkreporter.com/the-bank-of-england-reminds-us-why-it-is-important-to-check-recipients-before-sending-an-email/3879/
+1695,The Federal Reserve ,,06/29/15,Existential Data,Accidental Loss,United States,Government,1.4,http://www.bloomberg.com/news/articles/2015-07-24/fed-accidentally-released-confidential-staff-projections
+1696,The Versicherungsbote,,02/05/15,Existential Data,Accidental Loss,Germany,Financial,1.4,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.fondsprofessionell.de%2Fnews%2Fvertrieb-praxis%2Fnid%2Ffonds-finanz-relativiert-medienbericht-ueber-datenpanne%2Fgid%2F1019377%2Fref%2F4%2F&edit-text=
+1697,Abortion Practices,,07/27/15,Nuisance,Malicious Outsider,United States,Other,1.3,http://www.dailydot.com/politics/planned-parenthood-hacked-anti-abortion-3301/
+1698,Alfa Specialty Insurance Corp/Alfa Vision Insurance Corp,,05/04/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://doj.nh.gov/consumer/security-breaches/documents/alfa-insurance-20150710.pdf
+1699,AllMed/Central Alabama Primary Care Specialists ,,12/25/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.wtvm.com/story/30804533/exposed-medical-records-found-in-dumpster-in-east-montgomery
+1700,Anglesey ,,03/18/15,Identity Theft,Accidental Loss,United Kingdom,Other,1.3,http://www.dailypost.co.uk/news/north-wales-news/anglesey-council-launch-probe-after-8899632
+1701,Anxiety UK,,02/02/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,https://ico.org.uk/media/action-weve-taken/undertakings/1432348/anxiety-uk-undertaking.pdf
+1702,Arizona Department of Child Safety,,08/03/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.fox10phoenix.com/story/29699560/2015/08/03/kingman-resident-finds-dcs-investigation-documents-in-dumpster
+1703,Arthur Brisbane Child Treatment Center,,11/07/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.app.com/story/news/local/neptune-wall/wall/2015/11/13/records-brisbane-wall/75705462/
+1704,AVG,,12/30/15,Identity Theft,Accidental Loss,Netherlands,Technology,1.3,http://www.cnet.com/news/flaw-found-in-avgs-web-safety-software-9-million-people-exposed/
+1705,Avis Budget,,10/02/15,Identity Theft,Accidental Loss,United States,Retail,1.3,https://oag.ca.gov/system/files/Employee%20Notification%20Letter%20-%20Final%20%282%29_0.pdf?
+1706,Bank of Manhattan Mortgage,,06/25/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://oag.ca.gov/system/files/Bank%20of%20Manhattan%20Customer%20Notification_0.pdf?
+1707,Bedford Hospital,,03/08/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://www.dailymail.co.uk/news/article-187466/Medical-records-dumped.html
+1708,Boston Transportation Department (BTD),,09/09/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://news.softpedia.com/news/boston-authorities-exposed-sensitive-data-from-automatic-license-plate-readers-491267.shtml
+1709,Boston University,,11/09/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Boston%20University%20SBN%20to%20Consumers.pdf
+1710,"Bright House Cable, Jaguar, Inc",,05/01/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.clickorlando.com/news/bright-house-cable-work-orders-found-trashed-not-shredded/32676564
+1711,"California Department of Business Oversight,  Regulatory Authority (FINRA)",,01/05/15,Identity Theft,Accidental Loss,United States,Financial,1.3,https://oag.ca.gov/system/files/SDD%20Breach%20Notification%20Letter%20for%20DOJ_0.pdf?
+1712,CASA of Travis County,,03/31/15,Identity Theft,Accidental Loss,United States,Government,1.3,https://www.facebook.com/CenterForID
+1713,CIA,1,10/19/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.politico.com/story/2015/10/trey-gowdy-release-cia-source-name-benghazi-committee-214919
+1714,Coco's Bakery and Restaurant,,05/06/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.ksby.com/story/28975677/santa-maria-cocos-restaurant-closes-suddenly-ex-employees-say-personal-info-left-in-dumpster
+1715,Colchester Borough Council,,03/23/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.eadt.co.uk/news/urgent_investigation_into_breach_of_benefit_claimants_data_1_4004527
+1716,Columbia Management ,,01/20/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-251210.pdf
+1717,Defiance Metal Products Co/ 401K Plan & Trust / Ascensus,,05/14/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-256466.pdf
+1718,Department of Defense,,01/13/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.wjla.com/articles/2015/01/-malfunction-puts-federal-retirees-financial-data-at-risk-110541.html
+1719,Department of Employment and Learning,,08/13/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.recruiter.co.uk/news/2015/08/security-breach-gives-access-to-unknown-number-of-peoples-cvs/
+1720,Diman Regional Vocational Technical High School,,05/04/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Diman%20Regional%20Tech%20HS%20SBN%20to%20Consumers.pdf
+1721,District of Goslar ,,11/07/15,Identity Theft,Accidental Loss,Germany,Government,1.3,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fregionalgoslar.de%2Fdaten-panne-beim-landkreis-akten-landeten-im-altpapier%2F&edit-text=
+1722,Doran Reality,,03/23/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.kmov.com/story/28593682/documents-with-social-security-numbers-found-in-south-st-louis-dumpster
+1723,eBAY,,12/08/15,Identity Theft,Accidental Loss,United States,Retail,1.3,https://ret2libc.wordpress.com/2016/01/11/a-tale-of-ebay-xss-and-shoddy-incident-response/
+1724,esurance ,1,01/24/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253907.pdf
+1725,Ferndale Housing Commission/ Social Security Administration,,03/08/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.fox2detroit.com/news/local-news/28715404-story
+1726,Graham Central Station,,07/02/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.kob.com/article/stories/s3842335.shtml#.VZiDN_lViko
+1727,Hamilton Children's Aid Society,1,12/15/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://www.thespec.com/news-story/6231520-cas-discloses-woman-s-personal-information-without-her-consent/
+1728,HCA International/Lister Hospital,,04/09/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,https://www.databreaches.net/uk-private-health-firm-fined-200000-after-ivf-patients-confidential-conversations-revealed-online/
+1729,Health Center IN Jazan,,06/25/15,Identity Theft,Accidental Loss,Saudi Arabia,Healthcare,1.3,https://en-maktoob.news.yahoo.com/medical-center-jazan-dumps-patient-files-street-074052465.html
+1730,Human Rights Commission,1,09/04/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.vocm.com/newsarticle.asp?mn=2&ID=57124
+1731,Illinois Department of Insurance,,11/14/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://wtax.com/news/101101-illinois-department-of-insurance-discloses-privacy-breach/
+1732,Immobilise (Burglar's shopping list),,01/05/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.bbc.com/news/technology-30686697
+1733,Indiana salvage yards,,02/27/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://wishtv.com/2015/02/24/identities-left-exposed-in-indiana-salvage-yards/
+1734,ISIS,,02/11/15,Account Access,Hacktivist,Global,Other,1.3,http://www.mako.co.il/nexter-internet/Article-cf14f3cc1a77b41006.htm?Partner=makoMobileApp
+1735,Jewish General Hospital,1,01/30/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://www.cjad.com/cjad-news/2015/01/30/jewish-general-investigates-privacy-breach
+1736,Kenya's national,,07/13/15,Identity Theft,Accidental Loss,Russia,Government,1.3,http://sputniknews.com/africa/20150722/1024917436.html
+1737,Kinver,,09/09/15,Identity Theft,Accidental Loss,United Kingdom,Education,1.3,http://www.stourbridgenews.co.uk/news/13656294.Kinver_headteacher_apologises_after_confidential_pupil_documents_found_in_field/
+1738,League of Legends,,02/02/15,Account Access,Accidental Loss,United States,Other,1.3,http://www.pcgamer.com/league-of-legends-exploit-opens-back-door-to-user-accounts/
+1739,Linux #2,,11/22/15,Identity Theft,Accidental Loss,Australia,Technology,1.3,http://www.itwire.com/business-it-news/open-source/70431-linux-australia-suffers-another-data-leak
+1740,London Tribunal ,,07/27/15,Identity Theft,Accidental Loss,United Kingdom,Government,1.3,http://www.9news.com/story/news/local/2015/08/17/personal-medicaid-information-sent--wrong-addresses/31862221/
+1741,M&T Bank,,04/21/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253908.pdf
+1742,Marks & Spencer,,10/28/15,Identity Theft,Accidental Loss,United Kingdom,Retail,1.3,http://www.techweekeurope.co.uk/e-marketing/marks-spencer-website-breach-179602
+1743,Miners,,12/01/15,Identity Theft,Accidental Loss,Germany,Healthcare,1.3,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.apotheke-adhoc.de%2Fnachrichten%2Fapothekenpraxis%2Fnachricht-detail-apothekenpraxis%2Fkrankenkassen-datenpanne-bei-der-knappschaft%2F&edit-text=
+1744,Ministry of Children and Family Development ,1,01/29/15,Identity Theft,Accidental Loss,Canada,Government,1.3,http://www.kelownadailycourier.ca/news/article_133c8a6e-a829-11e4-8504-0726a273c917.html
+1745,Motel 6,,07/22/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.kaaltv.com/article/stories/S3857688.shtml?cat=10151
+1746,MyGov,,11/18/15,Identity Theft,Accidental Loss,Australia,Financial,1.3,https://www.reddit.com/r/australia/comments/3takz4/taxpayer_records_exposed_by_serious_ato_mygov/
+1747,Nationstar Mortgage ,,07/26/15,Identity Theft,Accidental Loss,United States,Financial,1.3,https://oag.ca.gov/system/files/Greenlight%20Incident_CA_%20Notification081015_0.pdf?
+1748,Nationwide,,07/29/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257955.pdf
+1749,Nest Thermostats ,,12/02/15,Identity Theft,Accidental Loss,United States,Technology,1.3,http://gizmodo.com/nest-thermostats-leaked-user-data-but-dont-freak-out-qu-1754123565
+1750,New Zealand Inland Revenue,1,06/09/15,Identity Theft,Accidental Loss,New Zealand,Healthcare,1.3,http://www.odt.co.nz/news/dunedin/344913/ird-statement-wrong-person
+1751,NFL Mobile app,,01/25/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.wkrg.com/story/27949463/wandera-finds-official-nfl-app-to-be-leaking-users-personal-data-just-days-ahead-of-the-big-game
+1752,Niall O'Kane eye,,10/07/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://www.kentonline.co.uk/medway/news/patients-records-left-on-train-45367/
+1753,North Atlanta Motors,,12/10/15,Identity Theft,Accidental Loss,United States,Retail,1.3,http://www.forsythnews.com/section/6/article/28980/
+1754,Novick & Associates,1,08/31/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.prnewswire.com/news-releases/bny-mellon-wealth-management-client-data-breach--novick--associates-300134934.html
+1755,NSL,,01/16/15,Identity Theft,Accidental Loss,United Kingdom,Retail,1.3,http://www.stratfordobserver.co.uk/2015/01/17/news-Parking-firm-letter-gaffe-sparks-security-worries-124922.html
+1756,Office of W.G. Bostick ,,06/01/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.wtsp.com/story/news/local/2015/06/01/attorney-admits-to-tossing-clients-documents-in-dumpster/28320499/
+1757,Oregon & Health CO-OP,,04/03/15,Existential Data,Malicious Outsider,United States,Healthcare,1.3,http://www.bizjournals.com/portland/blog/health-care-inc/2015/04/oregons-health-co-op-stolen-laptop-leads-to.html
+1758,Osceola County,,10/21/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.wftv.com/news/news/local/9-investigates-osceola-county-childrens-personal-i/nn7QF/
+1759,Painted Turtle,,01/12/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,https://oag.ca.gov/system/files/Painted%20Turtle_Volunteers%20Notification%20Letter_0.pdf
+1760,Positive Adjustments,,08/09/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://fox13now.com/2015/08/07/medical-documents-filled-with-personal-info-found-filling-dumpster-in-taylorsville/
+1761,Principal Financial Group,,08/03/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257937%20(2).pdf
+1762,Raz-Kids,,02/09/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://www.nytimes.com/2015/02/09/technology/uncovering-security-flaws-in-digital-education-products-for-schoolchildren.html?_r=1
+1763,"Registry of Births, Deaths and Marriages Victoria",,12/23/15,Identity Theft,Accidental Loss,Australia,Other,1.3,http://www.theage.com.au/victoria/birth-certificate-mix-up-sparks-identity-fraud-fears-20151222-gltrap.html
+1764,Rota Advanced Dental Care,,02/25/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://gazette.com/police-investigate-office-damage-as-colorado-springs-dentist-ousted/article/1546666
+1765,Scient Federal Credit Union,,07/14/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://doj.nh.gov/consumer/security-breaches/documents/scient-fcu-20150721.pdf
+1766,Shoppers Drug Mart,,03/06/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://toronto.ctvnews.ca/woman-peels-back-labels-on-medication-to-find-someone-else-s-prescriptions-1.2268271#
+1767,SolarCity Corporation /TrueNorth Compliance,,03/02/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-252135%20(1).pdf
+1768,Sports Traders,,07/16/15,Identity Theft,Accidental Loss,Canada,Retail,1.3,http://vancouverisland.ctvnews.ca/victoria-police-investigating-after-employee-records-tossed-in-cardboard-bin-1.2473111
+1769,St. Lucie Medical Center,1,06/16/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.wptv.com/money/consumer/st-lucie-medical-center-gave-patient-records-to-wrong-patient-exposing-social-security-numbers
+1770,St. Peter's Hospital,1,01/01/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.kaj18.com/story/30966527/st-peters-hospital-pharmacist-sued-over-medical-privacy-following-alleged-rape
+1771,State Farm,,06/10/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://abc7news.com/technology/exclusive-sj-woman-discovers-security-breach-in-state-farm-app/775904/
+1772,Stonebridge Life ,,10/06/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-260730.pdf
+1773,Summit Financial Group,,02/15/15,Identity Theft,Accidental Loss,United States,Financial,1.3,https://oag.ca.gov/system/files/Sample%20Notice%201_0.pdf?
+1774,Swedish Transport Agency,,09/01/15,Identity Theft,Accidental Loss,Sweden,Government,1.3,https://www.bleepingcomputer.com/news/government/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/
+1775,TeleChoice,,04/09/15,Identity Theft,Accidental Loss,Australia,Retail,1.3,http://www.zdnet.com/article/oaic-accepts-telechoices-response-to-shipping-container-data-breach/
+1776,Thailand Senate and Public Health Ministry,,05/22/15,Account Access,Hacktivist,Thailand,Government,1.3,https://www.hackread.com/anonymous-breaches-thailand-senate-website/
+1777,The Agency for Health Care Administration,,11/12/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://health.wusf.usf.edu/post/florida-agency-healthcare-administration-records-improperly-sent-landfill#stream/0
+1778,The Medicine Shoppe pharmacy,,04/28/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://london.ctvnews.ca/confidential-medical-records-found-abandoned-1.2348801
+1779,The REC of Grapevine,1,07/21/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.wfaa.com/story/news/local/tarrant-county/2015/07/20/woman-claims-sensitive-info-released-by-grapevine-rec-center/30443199/
+1780,Thomas Nelson Community College,,12/09/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Thomas%20Nelson%20Community%20College%20SBN%20to%20Consumers.pdf
+1781,Thompson Rivers University,,03/16/15,Identity Theft,Accidental Loss,Canada,Education,1.3,http://infotel.ca/newsitem/tru-says-online-privacy-possibly-compromised/it17927
+1782,Toronto Parking Tag Operations,,03/03/15,Identity Theft,Accidental Loss,Canada,Other,1.3,http://www.thestar.com/autos/2015/02/26/autoknow-star-gets-action-from-parking-cops-after-privacy-breach.html#
+1783,Town of Brunswick Police,,03/02/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://doj.nh.gov/consumer/security-breaches/documents/brunswick-20150515.pdf
+1784,Transportation and Works Minister David Brazil (Municipal Affairs),,03/03/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.vocm.com/newsarticle.asp?mn=2&id=53091&latest=1
+1785,Trillium Health Centre,1,01/08/15,Identity Theft,Accidental Loss,Canada,Healthcare,1.3,http://www.thestar.com/news/canada/2015/03/10/privacy-officer-accused-of-trying-to-block-investigation-into-hospital-breach.html
+1786,Trustmark Mutual Holding,,05/13/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.scmagazine.com/illinois-insurer-says-software-error-resulted-in-data-exposure/article/424199/
+1787,Tunica County School District,,06/23/15,Identity Theft,Accidental Loss,United States,Education,1.3,http://whbq.images.worldnow.com/images/8130364_G.jpg
+1788,U.S. Women's Soccer Team Parade,,07/13/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.13wmaz.com/story/news/2015/07/10/medical-documents-found-in-confetti-for-womens-soccer-parade/30000521/
+1789,University College Hospital,1,07/18/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://www.dailymail.co.uk/news/article-3166496/Jeremy-Hunt-hot-water-breaching-patient-confidentiality-posting-hospital-visit-picture-Twitter-board-names-it.html
+1790,University Hospital Galway,,04/09/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,1.3,http://connachttribune.ie/new-guidelines-after-data-breaches-at-uhg-981/
+1791,University of York,,06/09/15,Identity Theft,Accidental Loss,United Kingdom,Education,1.3,http://www.nouse.co.uk/2015/06/09/computer-science-department-in-serious-data-security-breach/
+1792,US Department of Agriculture,,11/07/15,Account Access,Hacktivist,United States,Government,1.3,http://news.softpedia.com/news/anonymous-hacks-us-department-of-agriculture-to-protest-against-monsanto-495855.shtml
+1793,Vacaville Housing Authority,,08/24/15,Identity Theft,Accidental Loss,United States,Government,1.3,https://oag.ca.gov/system/files/Vacaville%20Housing%20Authority%20-%20Notice%20of%20Data%20Event_0.pdf?
+1794,Vermont Health Connect ,,09/11/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Vermont%20Health%20Connect%20SBN%20to%20Consumer.pdf
+1795,Veteran of the US Air Force/ VA VocRehab,1,08/02/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://www.disabledveterans.org/agency-dismissive-in-new-va-data-breach/
+1796,Veterans Administration (Florida Navy veteran),1,01/19/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,http://www.wfla.com/story/27886308/veteran-receives-another-veterans-medical-records-in-the-mail
+1797,VFS Global,,07/17/15,Identity Theft,Accidental Loss,United Kingdom,Financial,1.3,http://www.theguardian.com/technology/2015/jul/17/users-data-compromised-after-technical-glitch-at-home-office-contractor
+1798,Volcano Corporation,,05/21/15,Identity Theft,Accidental Loss,United States,Government,1.3,http://doj.nh.gov/consumer/security-breaches/documents/volcano-20150609.pdf
+1799,Waikato high school,1,07/02/15,Identity Theft,Accidental Loss,New Zealand,Education,1.3,http://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=11474316
+1800,Westpoint Stevens,,03/13/15,Identity Theft,Accidental Loss,United States,Other,1.3,http://www.greenvilleonline.com/story/news/crime/2015/03/13/theft-case-looking-possible-stolen-personnel-files-textile-company/70263580/
+1801,William Farrell,,03/13/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://vulnerabledisclosures.blogspot.com/2015/03/william-farrell-cpa-cary-nc.html
+1802,WorkComp Resolutions,1,02/20/15,Identity Theft,Accidental Loss,United States,Financial,1.3,http://www.nbcbayarea.com/investigations/Private-Health-Info-Lost-Law-Provides-No-Recourse-293080441.html
+1803,Zeven,,04/22/15,Identity Theft,Accidental Loss,Germany,Financial,1.3,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.brv-zeitung.de%2Flokales_artikel%2C-Datenpanne-im-Finanzamt-Zeven-_arid%2C1635194.html&edit-text=&act=url
+1804,ZocDoc,,06/05/15,Identity Theft,Accidental Loss,United States,Healthcare,1.3,https://oag.ca.gov/system/files/CA%20Consumer%20Notification%20Zocdoc_0.pdf?
+1805,ADAC,,11/03/15,Financial Access,Accidental Loss,Germany,Other,1.2,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fwww.autobild.de%2Fartikel%2Fadac-mitgliederdaten-im-internet-7106293.html&edit-text=
+1806,Adele Tour,,12/01/15,Financial Access,Accidental Loss,Global,Other,1.2,https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiQuKitj7zJAhUEGj4KHf7vCVgQFggdMAA&url=http%3A%2F%2Fwww.stereoboard.com%2Fadele-tickets&usg=AFQjCNGHDlXLFfd36BwaA3jDvO-O2rFyCw&sig2=fmadm2lAsj6ERAk_VeG04w
+1807,"Atkinson, Andelson, Loya, Ruud & Romo ",,04/23/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Atkinson%2C%20Andelson%2C%20Loya%2C%20Ruud%20%26%20Romo%20Notice_0.pdf
+1808,"CardCrypt/Air Canada, the CN Tower,San Diego Zoo/ easyJet, AirAsia and Aer Lingus/Wandera/Chiltern Railways/CN Tower",,12/09/15,Financial Access,Accidental Loss,Global,Financial,1.2,https://www.wandera.com/blog/cardcrypt/
+1809,Charter Communications,,05/29/15,Financial Access,Accidental Loss,United States,Technology,1.2,https://www.databreaches.net/simple-website-flaw-exposed-personal-data-of-millions-of-charter-customers/
+1810,Covanta,,05/20/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://news.softpedia.com/news/operator-of-energy-from-waste-facilities-loses-laptop-with-employee-info-485998.shtml
+1811,David A. Krausz,,01/06/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Security%20Breach%20Notice_0.pdf
+1812,Dignity Health,,05/30/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,http://www.beckershospitalreview.com/healthcare-information-technology/dignity-health-subsidiary-reports-data-breach-due-to-stolen-unencrypted-laptop.html
+1813,E. K. and Company,,01/19/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,https://oag.ca.gov/system/files/Riley%2048865%20notice%20only%20_0_0.pdf?
+1814,"Harvard Pilgrim Health Care, Operon Resource Menagement",,01/10/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,http://doj.nh.gov/consumer/security-breaches/documents/operon-20150121.pdf
+1815,Jamaica Information Service (JIS),,06/22/15,Identity Theft,Malicious Outsider,Jamaica,Government,1.2,http://jamaica-gleaner.com/article/news/20150622/update-jis-website-hacked-sensitive-data-not-lost-management
+1816,Law Enforcement Targets ,,03/03/15,Financial Access,Accidental Loss,United States,Retail,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253672.pdf
+1817,Longwood Management,,02/11/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Longwood%20Notice%20Template_0.PDF?
+1818,M&T Bank,,01/22/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-246655.pdf
+1819,Minneapolis City Council member,,12/26/15,Nuisance,Malicious Insider,United States,Government,1.2,http://minnesota.cbslocal.com/2015/12/25/constituents-whose-info-cano-tweeted-say-she-should-resign/
+1820,Mountain Travel Sobek,,10/28/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-260740.pdf
+1821,Multiplay,,03/28/15,Identity Theft,Malicious Outsider,United Kingdom,Retail,1.2,http://www.eteknix.com/multiplay-servers-hacked/
+1822,New Enterprise Associates/Collected Intelligence,,08/03/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-257936.pdf
+1823,Papa John's ,1,02/08/15,Nuisance,Malicious Insider,United States,Other,1.2,http://www.cbc.ca/news/arts/iggy-azalea-threatens-to-sue-papa-john-s-after-pizza-delivery-boy-data-breach-1.2951434
+1824,Pathways Professional Counseling (PPC)/ Alabama Baptist Children's Homes & Family Ministries,,09/04/15,Identity Theft,Malicious Outsider,United States,Retail,1.2,http://www.prnewswire.com/news-releases/notice-of-data-security-event-300184239.html
+1825,Percheron,,01/15/15,Identity Theft,Malicious Outsider,United States,Other,1.2,http://doj.nh.gov/consumer/security-breaches/documents/percheron-20150223.pdf
+1826,Pioneer Bank,,01/26/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,http://news10.com/2015/03/02/pioneer-bank-affected-by-possible-security-breach/
+1827,Rob Kirby CPA,,01/06/15,Identity Theft,Malicious Outsider,United States,Education,1.2,http://oag.ca.gov/system/files/Security%20Breach%20Notification_1.pdf?
+1828,Roll Global / The Wonderful Company,,02/27/15,Identity Theft,Malicious Outsider,United States,Other,1.2,https://oag.ca.gov/system/files/Roll%20Press%20Release%20re%20Hub%20Incident_0.pdf?
+1829,Shire Human Genetic Therapies,,12/08/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Shire%20Human%20Genetic%20Therapies%20SBN%20to%20Consumers.pdf
+1830,St. Johns County School ,,04/14/15,Identity Theft,Malicious Outsider,United States,Education,1.2,http://www.actionnewsjax.com/news/news/local/teachers-laptop-stolen-rash-st-augustine-beach-car/nktPq/
+1831,Toyota Financial Services,,08/06/15,Financial Access,Accidental Loss,United States,Retail,1.2,http://oag.ca.gov/system/files/Vendor%20Partner%20Email%20Incident%20-%20Toyota%20States%20AG_0.pdf?
+1832,U.S. HealthWorks,,04/21/15,Identity Theft,Malicious Outsider,United States,Healthcare,1.2,https://oag.ca.gov/system/files/USHW%20Letter_0.PDF?
+1833,UK bitcoin vendor ,,07/23/15,Financial Access,Accidental Loss,United States,Financial,1.2,http://www.coindesk.com/customer-data-leaked-in-possible-bitcoin-vendor-breach/
+1834,Virtue Center for Art & Technology,,12/15/15,Financial Access,Accidental Loss,United States,Technology,1.2,http://www.hackbusters.com/news/stories/492220-credit-card-info-of-donors-to-pro-muslim-or-anti-islamophobia-organizations-leaked
+1835,YBF Tax Inc dba Liberty Tax Service,,02/01/15,Identity Theft,Malicious Outsider,United States,Financial,1.2,http://www.scmagazine.com/data-at-risk-following-burglary-at-liberty-tax-service-office-in-california/article/398664/
+1836,"Berkeley Health Center, Bay Area Consortium for Quality Health Care",,03/17/15,Identity Theft,Malicious Insider,United States,Healthcare,1.1,http://www.eastbayexpress.com/SevenDays/archives/2015/03/11/california-department-of-justice-investigates-berkeley-health-center-searches-clinic-for-financial-records
+1837,Callawassie gas station,,04/28/15,Financial Access,Malicious Outsider,United States,Other,1.1,http://wjcl.com/2015/04/28/credit-card-skimming-device-found-inside-pump-at-callawassie-gas-station/
+1838,Chevron GAS station,,01/22/15,Financial Access,Malicious Outsider,United States,Retail,1.1,http://www.palmbeachpost.com/news/news/crime-law/pbso-credit-card-skimming-device-found-at-gas-stat/njtKb/#__federated=1
+1839,Hayling supermarket,,02/26/15,Financial Access,Malicious Outsider,United Kingdom,Retail,1.1,http://www.portsmouth.co.uk/news/local/card-skimming-machine-is-discovered-at-hayling-supermarket-1-6602226
+1840,Lebanon Federal Credit Union,,10/04/15,Financial Access,Malicious Outsider,United States,Financial,1.1,http://www.ldnews.com/crime/ci_28937711/lfcu-finds-skimming-device-its-atm
+1841,San Luis Obispo County Community College District,,05/31/15,Identity Theft,Malicious Insider,United States,Education,1.1,https://oag.ca.gov/system/files/Letter%20for%20Mailing%20on%20LH_0.pdf?
+1842,Siam Commercial Bank,,02/02/15,Financial Access,Malicious Outsider,Thiland,Financial,1.1,http://www.bangkokpost.com/news/general/471273/bulgarian-card-skimmer-caught
+1843,Austrian Data Protection Authority,,03/06/15,Account Access,Accidental Loss,Austria,Government,1.0,https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fderstandard.at%2F2000018645225%2FDatenschutzbehoerde-loest-bei-Newsletter-selbst-Datenpanne-aus&edit-text=&act=url
+1844,Citizens Connect website,,02/27/15,Account Access,Accidental Loss,United States,Government,1.0,http://www.boston.com/news/local/massachusetts/2015/02/27/citizens-connect-accidentally-displayed-several-complainants-personal-information/URKlkzOCbknRSm9jJpG4lO/story.html
+1845,DC Public Schools,,02/03/15,Account Access,Accidental Loss,United States,Education,1.0,http://www.myfoxdc.com/story/28021428/dc-public-schools-say-data-break-left-student-information-passwords-exposed
+1846,"Essendon/Essendon Women's Network, Essendonians, Collins Street Dons, Red & Blacks, Lawdons and the Dick Reynolds Club ",,11/04/15,Account Access,Accidental Loss,Australia,Other,1.0,http://www.heraldsun.com.au/sport/afl/teams/essendon/essendon-privacy-lapse-as-personal-contact-information-of-prominent-members-is-sent-via-email/news-story/29719b7e9f5977b32db96007c8e34454
+1847,Gorey Credit Union,,10/05/15,Account Access,Accidental Loss,United Kingdom,Financial,1.0,http://www.independent.ie/regionals/goreyguardian/news/gcu-says-accounts-not-affected-by-error-31584665.html
+1848,Meru Cabs,,05/10/15,Account Access,Accidental Loss,India,Other,1.0,http://timesofindia.indiatimes.com/city/mumbai/Fleet-taxi-firm-plugs-leaks-after-breach-of-data-on-its-website/articleshow/47224670.cms
+1849,Targrt,,12/15/15,Account Access,Accidental Loss,United States,Retail,1.0,http://arstechnica.com/security/2015/12/wish-list-app-from-target-springs-a-major-personal-data-leak/
+1850,Verizon -My FiOS Android app ,,01/19/15,Account Access,Accidental Loss,United States,Other,1.0,http://www.forbes.com/fdc/welcome_mjx.shtml
+1851,Verizon's Hum,,08/03/15,Account Access,Accidental Loss,United States,Technology,1.0,http://www.securityweek.com/verizons-hum-website-found-leaking-credentials
+1852,Waller County,,07/31/15,Nuisance,Hacktivist,United States,Government,1.0,http://www.click2houston.com/news/hackers-claim-to-target-waller-county-officials/34479552
+1853,Walmart,,01/21/15,Account Access,Accidental Loss,United States,Retail,1.0,http://vulnerabledisclosures.blogspot.com/2015/12/walmart-leaked-data-appearing-online.html
+1854,KnowBe4,,02/01/15,Account Access,Malicious Outsider,United States,Other,0.9,http://www.scmagazine.com/email-phishing-attack-comes-disguised-as-child-predator-alert/article/395309/
+1855,California Department of Motor Vehicles,,09/28/15,Nuisance,Accidental Loss,United States,Government,0.7,http://oag.ca.gov/system/files/Notice%201_0.pdf
+1856,Department of Human Services Agency,,08/15/15,Nuisance,Accidental Loss,United States,Government,0.7,http://www.oag.state.md.us/idtheft/Breach%20Notices/2015/itu-256832.pdf
+1857,Dublin College for Advanced Studies,,04/23/15,Nuisance,Accidental Loss,United Kingdom,Education,0.7,http://www.thejournal.ie/data-protection-passports-in-skip-2065854-Apr2015/?utm_source=shortlink
+1858,General Optical Council,,12/02/15,Nuisance,Accidental Loss,United Kingdom,Retail,0.7,http://www.opticianonline.net/personal-registrant-data-leaked-general-optical-council/
+1859,Great Clips,,09/08/15,Nuisance,Accidental Loss,United States,Retail,0.7,http://www.gastongazette.com/article/20150909/NEWS/150908964
+1860,Isle of Portland Aldridge Community Academy (IPACA),,02/27/15,Nuisance,Accidental Loss,United Kingdom,Education,0.7,http://www.dorsetecho.co.uk/news/11831758.Prisoners_waste_disposal_contract_terminated_over_fears_student_information_wasn___t_destroyed/
+1861,MetroPCS,,11/15/15,Nuisance,Accidental Loss,United States,Retail,0.7,http://news.softpedia.com/news/software-bug-in-metropcs-website-dumps-user-data-in-cleartext-496181.shtml
+1862,Ministry of Justice,,01/29/15,Existential Data,Accidental Loss,United Kingdom,Government,0.7,http://www.bbc.com/news/uk-31037879
+1863,St Peter's School ,,10/16/15,Existential Data,Accidental Loss,United States,Education,0.7,http://www.yorkpress.co.uk/news/13875459.York_school_admits_data_breach_after_unprotected_memory_stick_is_lost/
+1864,TVNZ,,12/13/15,Nuisance,Accidental Loss,New Zealand,Other,0.7,http://www.nzherald.co.nz/entertainment/news/article.cfm?c_id=1501119&objectid=11560265
+1865,A.C Moore Arts & Crafts (Ascensus),,02/09/15,Identity Theft,Accidental Loss,United States,Retail,0.6,http://ago.vermont.gov/assets/files/Consumer/Security_Breach/Ascensus%20Inc%20SBN%20to%20Consumer.pdf
+1866,Apple American Group (Applebee's),,03/02/15,Identity Theft,Accidental Loss,United States,Retail,0.6,https://oag.ca.gov/system/files/Non-Massachusetts%20consumer%20notification%20letter%20FINAL%20AAG_0.PDF?
+1867,Columbian Financial Group,,05/09/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://doj.nh.gov/consumer/security-breaches/documents/columbian-financial-group-20150417.pdf
+1868,Columbian Mutual Life Insurance Company,,03/21/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://www.localsyr.com/story/d/story/flash-drive-with-names-ss-numbers-other-personal-d/53230/RiAyqIjpykOsS15nrfi5MA
+1869,Cooper University Health Care,,04/18/15,Identity Theft,Accidental Loss,United States,Healthcare,0.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253588%20(1).pdf
+1870,Derby City Council,,01/27/15,Identity Theft,Accidental Loss,United Kingdom,Government,0.6,http://www.derbytelegraph.co.uk/Children-s-details-lost-sent-wrong-place-Derby/story-26219043-detail/story.html
+1871,Derby City Council,,02/04/15,Identity Theft,Accidental Loss,United Kingdom,Government,0.6,http://www.derbytelegraph.co.uk/Children-s-details-lost-sent-wrong-place-Derby/story-26219043-detail/story.html
+1872,Derby City Council,,01/14/15,Identity Theft,Accidental Loss,United Kingdom,Government,0.6,http://www.derbytelegraph.co.uk/Children-s-details-lost-sent-wrong-place-Derby/story-26219043-detail/story.html
+1873,Dow Corning Corporation,,08/31/15,Identity Theft,Accidental Loss,United States,Other,0.6,http://doj.nh.gov/consumer/security-breaches/documents/dow-corning-20151030.pdf
+1874,Internet Explorer (Microsoft ),,02/04/15,Identity Theft,Accidental Loss,United States,Technology,0.6,http://www.theregister.co.uk/2015/02/04/canary_watch/
+1875,Israli Insurance,,07/23/15,Nuisance,Malicious Outsider,Israel,Financial,0.6,http://www.israelnationalnews.com/News/News.aspx/198513#.VbLV4bNViko
+1876,M&T Bank,,03/23/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-253787.pdf
+1877,Momentive Performance - Materials Savings Plan (Fidelity),,01/28/15,Identity Theft,Accidental Loss,United States,Financial,0.6,http://doj.nh.gov/consumer/security-breaches/documents/momentive-performance-20150401.pdf
+1878,Providence ST. Joseph Medical Center,,02/28/15,Identity Theft,Accidental Loss,United States,Healthcare,0.6,https://oag.ca.gov/system/files/Providence%20Adult%20Notice_0.pdf?
+1879,Royal Cornwall Hospital (Truro hospital),,03/06/15,Identity Theft,Accidental Loss,United Kingdom,Healthcare,0.6,http://www.westbriton.co.uk/Patients-notes-left-display-parked-car/story-26118060-detail/story.html
+1880,ValuTeachers,,02/02/15,Identity Theft,Accidental Loss,United States,Other,0.6,http://www.oag.state.md.us/idtheft/Breach%20Notices/itu-251206.pdf
+1881,Marriott International Android app ,,02/21/15,Account Access,Accidental Loss,United States,Other,0.3,http://www.scmagazine.com/marriott-fixes-android-app-issue-that-may-have-exposed-personal-data/article/394750/
+1882,Victor Valley College ,,01/30/15,Nuisance,Accidental Loss,United States,Education,0.0,http://www.vvdailypress.com/article/20150130/NEWS/150139991

@@ -20,7 +20,7 @@ def diff(year):
     #Close files
     f1.close()
     f2.close()
-    
+
     newRows = [row for row in newList2 if row not in oldList1]
     return newRows
 
