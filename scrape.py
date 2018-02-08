@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
+import os
 
 def scrape(year):
     r = requests.get("http://breachlevelindex.com/data-breach-database.php?range=" + year)
