@@ -57,8 +57,6 @@ def scrape_to_csv(year):
 
 
 def scrape_all():
-    scrape_to_csv("2017")
-    scrape_to_csv("2016")
-    scrape_to_csv("2015")
-    scrape_to_csv("2014")
-    scrape_to_csv("2013")
+    years = ["2018", "2017","2016","2015","2014", "2013"]
+    for year in years:
+        scrape_to_csv(year)

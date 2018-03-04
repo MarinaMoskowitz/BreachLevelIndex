@@ -32,7 +32,7 @@ def diff_all():
     Diffs all years
     :return:
     """
-    years = ["2017","2016","2015","2014", "2013"]
+    years = ["2018","2017","2016","2015","2014", "2013"]
     result = []
     for year in years:
         result += diff(year)
