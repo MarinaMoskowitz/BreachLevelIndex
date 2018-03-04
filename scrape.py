@@ -62,6 +62,3 @@ def scrape_all():
     scrape_to_csv("2015")
     scrape_to_csv("2014")
     scrape_to_csv("2013")
-
-
-scrape_all()

@@ -1,9 +1,11 @@
-
 import os
 
+"""
+Moves files from new to old when the database have been updated
+"""
 
 def move_all():
-    years = ["2017", "2016","2015","2014", "2013","2012"]
+    years = ["2017", "2016","2015","2014", "2013"]
     for year in years:
         move(year)
 
